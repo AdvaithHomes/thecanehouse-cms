@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220">
-<path d="M100 8 L188 34 V110 C188 160 150 196 100 212 C50 196 12 160 12 110 V34 Z" fill="none" stroke="#1e3920" stroke-width="5"/>
-<path d="M100 22 L174 44 V110 C174 152 142 182 100 196 C58 182 26 152 26 110 V44 Z" fill="none" stroke="#1e3920" stroke-width="1.5"/>
-<text x="100" y="70" font-family="Rokkitt, Georgia, serif" font-weight="800" font-size="15" letter-spacing="3" text-anchor="middle" fill="#1e3920">CROYDON</text>
-<text x="100" y="118" font-family="Rokkitt, Georgia, serif" font-weight="800" font-size="34" text-anchor="middle" fill="#1e3920">EVENTS</text>
-<path d="M50 132 H150" stroke="#1e3920" stroke-width="1.5"/>
-<text x="100" y="156" font-family="Rokkitt, Georgia, serif" font-weight="800" font-size="13" letter-spacing="3" text-anchor="middle" fill="#1e3920">HALL</text>
-</svg>
