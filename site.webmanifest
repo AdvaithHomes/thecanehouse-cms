@@ -1,0 +1,11 @@
+{
+  "name": "The CaneHouse",
+  "short_name": "CaneHouse",
+  "description": "Fresh sugarcane juice, pressed while you watch.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#efe0bf",
+  "theme_color": "#1f3a22",
+  "icons": [{ "src": "images/logo/logo.png", "sizes": "417x532", "type": "image/png" }]
+}
