@@ -1,0 +1,62 @@
+{
+  "key": "contact",
+  "path": "/contact",
+  "label": "Contact",
+  "sitemap": {
+    "priority": 0.8,
+    "changefreq": "yearly"
+  },
+  "seo": {
+    "title": "Contact & Bookings – Sutton, London",
+    "description": "Contact The CaneHouse in Sutton, London. Call +44 777 046 1939, email thecanehouseuk@gmail.com or send an enquiry for events, delivery, bulk orders and franchise.",
+    "image": "/images/backgrounds/vintage_coldpress_bar_catering.jpg"
+  },
+  "sections": [
+    {
+      "type": "pageHero",
+      "id": "contact-hero",
+      "variant": "compact",
+      "title": "Get In Touch",
+      "subtitle": "We Are Here To Help",
+      "text": [
+        "Bookings, orders, franchise or just a hello –",
+        "we reply within 24 hours."
+      ],
+      "image": {
+        "src": "/images/backgrounds/vintage_coldpress_bar_catering.webp",
+        "alt": "The CaneHouse cold press bar"
+      }
+    },
+    {
+      "type": "row",
+      "columns": [
+        {
+          "size": "1.5fr",
+          "sections": [
+            {
+              "ref": "contactForm"
+            }
+          ]
+        },
+        {
+          "size": "1fr",
+          "sections": [
+            {
+              "ref": "contactInfo"
+            }
+          ]
+        }
+      ],
+      "split": true
+    },
+    {
+      "ref": "serve"
+    },
+    {
+      "ref": "faq"
+    },
+    {
+      "ref": "prefooterQuote"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": "f533f3f612",
+  "files": [
+    "site",
+    "ui",
+    "blocks",
+    "pages/all-about-cane",
+    "pages/contact",
+    "pages/cookie-policy",
+    "pages/events",
+    "pages/franchise",
+    "pages/home",
+    "pages/our-story",
+    "pages/privacy-policy",
+    "pages/terms"
+  ]
+}

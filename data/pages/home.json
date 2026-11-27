@@ -1,0 +1,241 @@
+{
+  "key": "home",
+  "path": "/",
+  "label": "Home",
+  "sitemap": {
+    "priority": 1,
+    "changefreq": "weekly"
+  },
+  "seo": {
+    "title": "Fresh Sugarcane Juice in Sutton, London",
+    "fullTitle": "The CaneHouse – Fresh Sugarcane Juice in Sutton, London",
+    "description": "Fresh sugarcane juice pressed before your eyes in Sutton, London – classic, pineapple, lemon & ginger and mint. Event catering and franchises across the UK.",
+    "image": "/images/sugarcane/hero_juice.jpg"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "id": "home-hero",
+      "interval": 2000,
+      "headline": [
+        "Sweet",
+        "Sugarcane",
+        "Memories."
+      ],
+      "script": "Bringing Back Childhood Memories",
+      "lines": [
+        "Freshly pressed sugarcane juice",
+        "right before your eyes,",
+        "enjoyed across the world for generations."
+      ],
+      "buttons": [
+        {
+          "label": "Explore More",
+          "href": "#drinks",
+          "variant": "primary"
+        },
+        {
+          "label": "Book Us For Your Event",
+          "href": "/contact#enquiry",
+          "variant": "outline",
+          "icon": "calendar"
+        }
+      ],
+      "chalkboard": [
+        "Pure.",
+        "Natural.",
+        "Timeless."
+      ],
+      "slides": [
+        {
+          "image": "/images/sugarcane/hero_juice.webp",
+          "alt": "Fresh sugarcane juice beside a traditional cane press"
+        },
+        {
+          "image": "/images/backgrounds/vintage_coldpress_bar_catering.webp",
+          "alt": "The CaneHouse vintage cold press bar"
+        },
+        {
+          "image": "/images/gallery/stall_event_4.webp",
+          "alt": "The CaneHouse stall at an evening event"
+        }
+      ],
+      "decor": {
+        "right": "/images/decorative/ingredients/sugarcane-plant-with-roots.webp"
+      },
+      "mobileBackground": {
+        "enabled": true,
+        "video": "",
+        "poster": ""
+      }
+    },
+    {
+      "type": "marquee",
+      "tone": "maroon",
+      "items": [
+        "Bringing back childhood memories",
+        "Freshly pressed right before your eyes",
+        "Fresh Sugarcane Juice, Naturally Sweet",
+        "Enjoyed across the world for generations"
+      ]
+    },
+    {
+      "type": "story",
+      "id": "our-story",
+      "title": "Our Story",
+      "script": "A Tradition With Deep Roots",
+      "align": "left",
+      "layout": "collage",
+      "text": [
+        "From ancient fields to modern times, sugarcane has sweetened celebrations and brought people together for generations. At harvest festivals whole canes are shared with neighbours and chewed by children in the sun.",
+        "The CaneHouse brings that timeless tradition to Sutton and beyond. We source the finest sugarcane, press it fresh while you watch and serve it with love.",
+        "Each cane is washed and fed through the press, and the sweet green-gold juice is poured straight into your glass, perhaps with a squeeze of lemon, a little ginger or a sprig of mint. Every glass carries a little of that same feeling: something simple, fresh and shared."
+      ],
+      "features": [
+        {
+          "icon": "landmark",
+          "title": "Tradition",
+          "text": "Proud of our heritage"
+        },
+        {
+          "icon": "award",
+          "title": "Quality",
+          "text": "Premium & carefully selected"
+        },
+        {
+          "icon": "users",
+          "title": "Community",
+          "text": "Connected to Sutton & beyond"
+        },
+        {
+          "icon": "badge",
+          "title": "Authentic",
+          "text": "Traditional taste, always natural"
+        }
+      ],
+      "button": {
+        "label": "Read Our Story",
+        "href": "/all-about-cane"
+      },
+      "images": [
+        {
+          "src": "/images/sugarcane/story_moments.webp",
+          "alt": "Children enjoying sugarcane juice together"
+        },
+        {
+          "src": "/images/gallery/stall_event_4.webp",
+          "alt": "The CaneHouse stall"
+        },
+        {
+          "src": "/images/sugarcane/stacks.webp",
+          "alt": "Fresh sugarcane stacks"
+        },
+        {
+          "src": "/images/backgrounds/machine/old_machine.webp",
+          "alt": "Traditional cane pressing machine"
+        }
+      ]
+    },
+    {
+      "ref": "featureStall"
+    },
+    {
+      "ref": "upcoming"
+    },
+    {
+      "ref": "drinks"
+    },
+    {
+      "type": "marquee",
+      "tone": "paper",
+      "size": "lg",
+      "icon": "sprout",
+      "reverse": true,
+      "items": [
+        "Freshly Pressed",
+        "100% Natural",
+        "Nothing Added",
+        "Pressed While You Watch",
+        "Naturally Refreshing"
+      ]
+    },
+    {
+      "ref": "trust"
+    },
+    {
+      "ref": "serve"
+    },
+    {
+      "ref": "gallery"
+    },
+    {
+      "ref": "videos"
+    },
+    {
+      "type": "testimonials",
+      "id": "reviews",
+      "title": "What People Say",
+      "autoplay": true,
+      "itemsFrom": [
+        "orderTestimonials",
+        "eventTestimonials",
+        "franchiseTestimonials"
+      ]
+    },
+    {
+      "type": "marquee",
+      "tone": "green",
+      "size": "lg",
+      "icon": "party",
+      "items": [
+        "Weddings",
+        "Birthdays",
+        "College Fests",
+        "Corporate Events",
+        "Festivals",
+        "Private Parties"
+      ]
+    },
+    {
+      "ref": "memories"
+    },
+    {
+      "ref": "enquiryCta"
+    },
+    {
+      "ref": "social"
+    },
+    {
+      "ref": "caneGame"
+    },
+    {
+      "ref": "faq",
+      "aside": false
+    },
+    {
+      "type": "row",
+      "columns": [
+        {
+          "size": "1.4fr",
+          "sections": [
+            {
+              "ref": "contactForm"
+            }
+          ]
+        },
+        {
+          "size": "1fr",
+          "sections": [
+            {
+              "ref": "contactInfo"
+            }
+          ]
+        }
+      ],
+      "split": true
+    },
+    {
+      "ref": "prefooterQuote"
+    }
+  ]
+}

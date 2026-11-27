@@ -1,0 +1,138 @@
+{
+  "key": "ourStory",
+  "path": "/our-story",
+  "label": "Our Story",
+  "sitemap": {
+    "priority": 0.9,
+    "changefreq": "monthly"
+  },
+  "seo": {
+    "title": "Our Story – A Tradition With Deep Roots",
+    "description": "How The CaneHouse brings the tradition of fresh sugarcane juice to Sutton, London and beyond. Meet the people, the press and the promise behind every glass.",
+    "image": "/images/sugarcane/story_moments.jpg"
+  },
+  "sections": [
+    {
+      "type": "pageHero",
+      "id": "our-story-hero",
+      "title": "Our Story",
+      "subtitle": "A Tradition With Deep Roots",
+      "text": [
+        "Bringing back memories for some.",
+        "Creating new memories for others."
+      ],
+      "image": {
+        "src": "/images/sugarcane/story_moments.webp",
+        "alt": "Friends sharing fresh sugarcane juice"
+      },
+      "stamp": {
+        "top": "Tradition",
+        "bottom": "In Every Glass"
+      }
+    },
+    {
+      "type": "marquee",
+      "tone": "maroon",
+      "items": [
+        "Tradition",
+        "Quality",
+        "Community",
+        "Authentic",
+        "Made With Care"
+      ]
+    },
+    {
+      "type": "story",
+      "id": "more-than-a-drink",
+      "title": "More Than Just A Drink",
+      "script": "It's a Memory.",
+      "layout": "pair",
+      "text": [
+        "Before supermarkets. Before energy drinks. Before everything became instant – there was sugarcane juice.",
+        "Freshly pressed. Shared with friends. Enjoyed together under the summer sun.",
+        "The CaneHouse brings that timeless tradition to Sutton and beyond. We source the finest sugarcane, press it fresh while you watch and serve it with love."
+      ],
+      "button": {
+        "label": "All About Cane",
+        "href": "/all-about-cane"
+      },
+      "images": [
+        {
+          "src": "/images/gallery/stall_event_2.webp",
+          "alt": "Guests at The CaneHouse stall"
+        },
+        {
+          "src": "/images/backgrounds/machine/old_machine.webp",
+          "alt": "Our traditional cane press"
+        }
+      ]
+    },
+    {
+      "type": "iconGrid",
+      "id": "our-values",
+      "title": "What We Stand For",
+      "style": "circle",
+      "columns": 4,
+      "items": [
+        {
+          "icon": "landmark",
+          "title": "Tradition",
+          "text": "Proud of our heritage and the old way of pressing."
+        },
+        {
+          "icon": "award",
+          "title": "Quality",
+          "text": "Premium cane, carefully selected every day."
+        },
+        {
+          "icon": "users",
+          "title": "Community",
+          "text": "Connected to Sutton and the people we serve."
+        },
+        {
+          "icon": "badge",
+          "title": "Authentic",
+          "text": "Traditional taste – nothing added, always natural."
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "id": "our-journey",
+      "title": "Our Journey",
+      "items": [
+        {
+          "image": "/images/decorative/ingredients/sugarcane-plant-with-roots.webp",
+          "title": "The Idea",
+          "text": "A taste of home we missed – fresh cane juice."
+        },
+        {
+          "image": "/images/backgrounds/machine/old_machine.webp",
+          "title": "The Press",
+          "text": "A traditional press, restored with care."
+        },
+        {
+          "image": "/images/gallery/stall_event_4.webp",
+          "title": "Our Stall",
+          "text": "Our first stall opened in Sutton."
+        },
+        {
+          "image": "/images/gallery/stall_event_3.webp",
+          "title": "Events",
+          "text": "Weddings, fests and celebrations followed."
+        },
+        {
+          "image": "/images/sugarcane/drink_classic.webp",
+          "title": "Every Glass",
+          "text": "Thousands of glasses, poured with love."
+        }
+      ]
+    },
+    {
+      "ref": "trust"
+    },
+    {
+      "ref": "enquiryCta"
+    }
+  ]
+}

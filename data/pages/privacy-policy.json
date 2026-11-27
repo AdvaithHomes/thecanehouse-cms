@@ -1,0 +1,92 @@
+{
+  "key": "privacy",
+  "path": "/privacy-policy",
+  "label": "Privacy Policy",
+  "sitemap": {
+    "priority": 0.3,
+    "changefreq": "yearly"
+  },
+  "seo": {
+    "title": "Privacy Policy",
+    "description": "How The CaneHouse in Sutton, London collects, uses and protects your personal information when you contact us, order or book an event."
+  },
+  "sections": [
+    {
+      "type": "pageHero",
+      "id": "privacy-hero",
+      "variant": "compact",
+      "title": "Privacy Policy",
+      "subtitle": "Your Information, Kept With Care",
+      "image": {
+        "src": "/images/backgrounds/pure_sugarcane_forest_trees_engraving.webp",
+        "alt": "Engraving of sugarcane"
+      }
+    },
+    {
+      "type": "content",
+      "id": "privacy",
+      "title": "Privacy Policy",
+      "hideTitle": true,
+      "updated": "15 November 2026",
+      "blocks": [
+        {
+          "heading": "Who we are",
+          "text": [
+            "The CaneHouse is a fresh sugarcane juice business based in Sutton, London, United Kingdom. Contact: thecanehouseuk@gmail.com, +44 777 046 1939."
+          ]
+        },
+        {
+          "heading": "What we collect",
+          "text": [
+            "When you send an enquiry, booking or franchise application we collect the details you give us:"
+          ],
+          "list": [
+            "Name",
+            "Email address",
+            "Phone number",
+            "Event or order details and your message"
+          ]
+        },
+        {
+          "heading": "How we use it",
+          "list": [
+            "To reply to your enquiry and arrange orders, deliveries and events",
+            "To send quotes, confirmations and invoices",
+            "To consider franchise applications"
+          ],
+          "text": [
+            "We never sell your details. We only share them with services that help us run the business (for example our email and form providers)."
+          ]
+        },
+        {
+          "heading": "How long we keep it",
+          "text": [
+            "We keep enquiry details for up to 24 months, or longer where the law requires (for example accounting records)."
+          ]
+        },
+        {
+          "heading": "Your rights",
+          "text": [
+            "Under UK GDPR you can ask to see, correct or delete your personal data, or object to how we use it. Email us and we will respond within one month. You can also complain to the Information Commissioner's Office (ico.org.uk)."
+          ]
+        },
+        {
+          "heading": "Cookies",
+          "text": [
+            "This website does not use advertising or tracking cookies. See our Cookie Policy (/cookie-policy) for exactly what is stored on your device."
+          ]
+        },
+        {
+          "heading": "Photo credits",
+          "text": [
+            "A few drink photos come from Wikimedia Commons and are used under their free licences. They have been cropped and colour-toned to match the site."
+          ],
+          "list": [
+            "Watermelon & Sugarcane – \"Watermelon juice in a glass\" by Susan Slater, CC BY-SA 4.0 (commons.wikimedia.org/wiki/File:Watermelon_juice_in_a_glass.jpg). Our adapted version is shared under the same licence.",
+            "Orange & Sugarcane – \"Orange juice 1 edit1\", United States Department of Agriculture, public domain (commons.wikimedia.org/wiki/File:Orange_juice_1_edit1.jpg)."
+          ]
+        }
+      ]
+    }
+  ]
+}

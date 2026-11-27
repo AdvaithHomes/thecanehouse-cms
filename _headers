@@ -3,6 +3,24 @@
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
 
+# the content JSON is read as data/<file>.json?v=<version> – a new version is a new address, so it
+# can be kept for a year. data/version.json (which version is current) is never kept. The rules
+# are listed per file so none of them also matches version.json (hosts merge matching rules).
+/data/site.json
+  Cache-Control: public, max-age=31536000, immutable
+
+/data/ui.json
+  Cache-Control: public, max-age=31536000, immutable
+
+/data/blocks.json
+  Cache-Control: public, max-age=31536000, immutable
+
+/data/pages/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/data/version.json
+  Cache-Control: no-cache
+
 /images/*
   Cache-Control: public, max-age=2592000
 

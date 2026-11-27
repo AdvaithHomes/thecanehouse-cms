@@ -1,0 +1,318 @@
+{
+  "_about": "Every interface label, message and setting used by the components. Edit wording here – no text lives in the code. {placeholders} are filled in by the site.",
+  "a11y": {
+    "skipToContent": "Skip to content",
+    "mainNav": "Main",
+    "mobileNav": "Mobile",
+    "home": "Home",
+    "brandHome": "{brand} – home",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "switchTheme": "Switch to the {theme} look",
+    "quickActions": "Quick actions",
+    "backToTop": "Back to top",
+    "hideTip": "Hide tip",
+    "whatsappChat": "Chat with us on WhatsApp",
+    "close": "Close",
+    "previous": "Previous",
+    "next": "Next",
+    "previousPhoto": "Previous photo",
+    "nextPhoto": "Next photo",
+    "openPhoto": "Open photo: {alt}",
+    "featuredPhotos": "Featured photos",
+    "chooseSlide": "Choose slide",
+    "slide": "Slide {n}",
+    "filterGallery": "Filter gallery",
+    "previousMonth": "Previous month",
+    "nextMonth": "Next month",
+    "carousel": "Carousel",
+    "photoStrip": "Photo strip",
+    "products": "Products",
+    "highlights": "Highlights",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "social": "Social",
+    "cookies": "Cookies",
+    "logoOf": "{name} logo",
+    "rating": "Rated {n} out of 5",
+    "playVideo": "Play video: {title}"
+  },
+  "titles": {
+    "_about": "Two-colour titles (page and section titles): main words in one colour, the small linking and describing words below in the other. Each look sets the two colours. Wrap words in *stars* in a title to pick its main words yourself. twoTone: false turns it off.",
+    "twoTone": true,
+    "minorWords": [
+      "a",
+      "an",
+      "the",
+      "and",
+      "&",
+      "or",
+      "of",
+      "to",
+      "in",
+      "on",
+      "at",
+      "by",
+      "for",
+      "with",
+      "from",
+      "into",
+      "about",
+      "than",
+      "as",
+      "is",
+      "are",
+      "it",
+      "its",
+      "our",
+      "your",
+      "my",
+      "we",
+      "you",
+      "us",
+      "all",
+      "just",
+      "more",
+      "most",
+      "very",
+      "so",
+      "why",
+      "what",
+      "how",
+      "when",
+      "where",
+      "who",
+      "this",
+      "that",
+      "let's",
+      "fresh",
+      "pure",
+      "natural",
+      "sweet",
+      "real",
+      "simple",
+      "best",
+      "great",
+      "good",
+      "new",
+      "little",
+      "deep",
+      "clean",
+      "safe",
+      "local",
+      "classic",
+      "frequently",
+      "asked",
+      "ever",
+      "told",
+      "behind"
+    ]
+  },
+  "header": {
+    "the": "The",
+    "callLabel": "Call or WhatsApp",
+    "locationScript": "Freshly pressed in {place}"
+  },
+  "footer": {
+    "badgesTitle": "Certified & trusted",
+    "creditLabel": "Developed & Maintained by"
+  },
+  "faq": {
+    "asideTitle": "Still have questions?",
+    "asideText": "We're happy to help – call, WhatsApp or send us a quick enquiry and we'll reply within 24 hours.",
+    "whatsapp": "WhatsApp us",
+    "enquiry": {
+      "label": "Send an enquiry",
+      "href": "/contact#enquiry",
+      "icon": "send"
+    }
+  },
+  "calendar": {
+    "directions": "Directions",
+    "saveDate": "Save date",
+    "past": "This event has passed",
+    "comingSoon": "New dates coming soon – follow us for updates.",
+    "legend": "CaneHouse at an event · tap a date to see details",
+    "showMonth": "Show whole month",
+    "noEvents": "No public events {when} yet.",
+    "onThisDay": "on this day",
+    "thisMonth": "this month",
+    "bookYours": {
+      "label": "Book us for yours!",
+      "href": "/contact#enquiry"
+    },
+    "eventPrefix": "The CaneHouse – ",
+    "eventsCount": "{n} events",
+    "eventCount": "{n} event"
+  },
+  "contact": {
+    "website": "Website",
+    "errors": {
+      "required": "Please enter your {label}.",
+      "email": "Please enter a valid email address.",
+      "phone": "Please enter a valid phone number."
+    },
+    "labels": {
+      "address": "Find us",
+      "phone": "Call or WhatsApp",
+      "email": "Write to us",
+      "website": "Online",
+      "follow": "Follow our story"
+    }
+  },
+  "video": {
+    "soonTitle": "Video coming soon",
+    "soonText": "Add a YouTube link to this video in the site content to play it here.",
+    "back": "Back",
+    "readMore": "Read more",
+    "nowPlaying": "Now playing"
+  },
+  "gallery": {
+    "empty": "No photos in this category yet."
+  },
+  "social": {
+    "review": "Review",
+    "embed": "Embedded content",
+    "instagramPost": "Instagram post",
+    "viewOnInstagram": "View on Instagram",
+    "platforms": {
+      "instagram": "Instagram",
+      "youtube": "YouTube",
+      "tiktok": "TikTok",
+      "video": "Video",
+      "facebook": "Facebook"
+    }
+  },
+  "motion": {
+    "respectReducedMotion": false,
+    "_respectReducedMotion": "false = every animation runs on every device; true = calm everything for visitors whose device asks for reduced motion",
+    "fallingFruit": {
+      "enabled": true,
+      "fruits": [
+        "lemon",
+        "lime",
+        "lime-half",
+        "orange-slice"
+      ],
+      "folder": "/images/decorative/fruits/cut/",
+      "maxOnScreen": 2,
+      "firstAfterSeconds": [
+        2.5,
+        5
+      ],
+      "everySeconds": [
+        6,
+        14
+      ],
+      "fallSeconds": [
+        11,
+        17
+      ],
+      "sizePx": [
+        30,
+        52
+      ],
+      "opacity": [
+        0.28,
+        0.42
+      ],
+      "startHeight": [
+        -10,
+        45
+      ],
+      "burst": {
+        "enabled": true,
+        "drops": 14,
+        "seconds": 0.9,
+        "colours": {
+          "lemon": "#f4d23c",
+          "lime": "#8cc63f",
+          "lime-half": "#8cc63f",
+          "orange-slice": "#f39a2b"
+        }
+      }
+    },
+    "airFlow": {
+      "enabled": true,
+      "everySeconds": [
+        7,
+        15
+      ],
+      "firstAfterSeconds": [
+        4,
+        8
+      ],
+      "gustSeconds": [
+        5,
+        8
+      ],
+      "leavesPerGust": [
+        2,
+        4
+      ],
+      "heightPercent": [
+        10,
+        80
+      ],
+      "opacity": [
+        0.35,
+        0.6
+      ],
+      "leafImage": "/images/backgrounds/leaf-fall.png"
+    },
+    "caneField": {
+      "enabled": true,
+      "spacing": [
+        48,
+        42
+      ],
+      "radius": 170,
+      "push": 12,
+      "opacity": 0.6,
+      "hideAfterMs": 1000,
+      "leafShare": 0.25
+    }
+  },
+  "notFound": {
+    "key": "notFound",
+    "path": "/404",
+    "label": "Page Not Found",
+    "seo": {
+      "title": "Page Not Found",
+      "description": "This page has wandered off into the cane fields.",
+      "noindex": true
+    },
+    "sections": [
+      {
+        "type": "pageHero",
+        "id": "not-found",
+        "variant": "compact",
+        "title": "Lost In The Cane Fields",
+        "subtitle": "Page Not Found",
+        "text": [
+          "The page you're looking for has wandered off.",
+          "Let's get you back to something fresh."
+        ],
+        "buttons": [
+          {
+            "label": "Back to Home",
+            "href": "/",
+            "variant": "primary"
+          },
+          {
+            "label": "Contact Us",
+            "href": "/contact",
+            "variant": "outline"
+          }
+        ]
+      }
+    ]
+  },
+  "book": {
+    "prev": "Previous page",
+    "next": "Turn the page",
+    "again": "Read again",
+    "contents": "Chapters",
+    "status": "Chapter {n} of {total}: {title}"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "key": "franchise",
+  "path": "/franchise",
+  "label": "Franchise",
+  "sitemap": {
+    "priority": 0.8,
+    "changefreq": "monthly"
+  },
+  "seo": {
+    "title": "Sugarcane Juice Franchise UK & London",
+    "description": "Start a sugarcane juice franchise in the UK with The CaneHouse – juice bar, food kiosk, event or mobile cart, with full training and support. Enquire today.",
+    "image": "/images/gallery/stall_event_4.jpg"
+  },
+  "sections": [
+    {
+      "type": "pageHero",
+      "id": "franchise-hero",
+      "variant": "compact",
+      "title": "Start a Sugarcane Juice Franchise",
+      "subtitle": "Juice Bar & Kiosk Franchises Across the UK",
+      "text": [
+        "A proven, traditional and much-loved drink –",
+        "with the training and support to make it yours."
+      ],
+      "image": {
+        "src": "/images/gallery/stall_event_4.webp",
+        "alt": "The CaneHouse sugarcane juice kiosk serving fresh juice at an outdoor event"
+      },
+      "buttons": [
+        {
+          "label": "Apply Now",
+          "href": "#apply",
+          "variant": "primary"
+        }
+      ]
+    },
+    {
+      "ref": "franchiseInfo",
+      "title": "Why Choose a CaneHouse Franchise",
+      "tag": ""
+    },
+    {
+      "ref": "franchiseCards",
+      "tag": "",
+      "rail": false
+    },
+    {
+      "ref": "franchiseTestimonials",
+      "title": "From Our Partners"
+    },
+    {
+      "type": "row",
+      "columns": [
+        {
+          "size": "1.5fr",
+          "sections": [
+            {
+              "ref": "franchiseForm"
+            }
+          ]
+        },
+        {
+          "size": "1fr",
+          "sections": [
+            {
+              "ref": "contactInfo"
+            }
+          ]
+        }
+      ],
+      "split": true
+    },
+    {
+      "ref": "franchiseEventsCta"
+    },
+    {
+      "ref": "faqFranchise"
+    }
+  ]
+}

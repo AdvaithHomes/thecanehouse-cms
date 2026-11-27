@@ -1,0 +1,90 @@
+{
+  "key": "events",
+  "path": "/events",
+  "label": "Events",
+  "sitemap": {
+    "priority": 0.8,
+    "changefreq": "monthly"
+  },
+  "seo": {
+    "title": "Sugarcane Juice Event Catering in London",
+    "description": "Hire The CaneHouse live sugarcane juice stall for weddings, birthdays, college fests and corporate events across Sutton, London and Surrey – pressed in front of guests.",
+    "image": "/images/gallery/stall_event_2.jpg"
+  },
+  "sections": [
+    {
+      "type": "pageHero",
+      "id": "events-hero",
+      "variant": "compact",
+      "title": "Our Events",
+      "subtitle": "Freshly Pressed, Live At Your Celebration",
+      "text": [
+        "Weddings, parties, college fests and corporate days –",
+        "we bring the vintage press and the smiles."
+      ],
+      "image": {
+        "src": "/images/gallery/stall_event_2.webp",
+        "alt": "Fresh sugarcane juice pouring from The CaneHouse press"
+      },
+      "buttons": [
+        {
+          "label": "Book Us For Your Event",
+          "href": "#event-enquiry",
+          "variant": "primary",
+          "icon": "calendar"
+        }
+      ]
+    },
+    {
+      "ref": "upcoming",
+      "title": "Our Next Public Events"
+    },
+    {
+      "ref": "eventInfo",
+      "title": "Why Book The CaneHouse",
+      "tag": ""
+    },
+    {
+      "ref": "eventCards",
+      "title": "Events We Cater For",
+      "tag": "",
+      "rail": false
+    },
+    {
+      "ref": "eventTestimonials",
+      "title": "Kind Words From Our Hosts"
+    },
+    {
+      "ref": "social"
+    },
+    {
+      "ref": "memories",
+      "title": "Moments From Our Events"
+    },
+    {
+      "type": "row",
+      "columns": [
+        {
+          "size": "1.4fr",
+          "sections": [
+            {
+              "ref": "eventForm"
+            }
+          ]
+        },
+        {
+          "size": "1fr",
+          "sections": [
+            {
+              "ref": "contactInfo"
+            }
+          ]
+        }
+      ],
+      "split": true
+    },
+    {
+      "ref": "faqEvents"
+    }
+  ]
+}

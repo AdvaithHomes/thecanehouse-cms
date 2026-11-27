@@ -1,0 +1,302 @@
+{
+  "url": "https://thecanehouse.co.uk",
+  "language": "en-GB",
+  "locale": "en_GB",
+  "brand": {
+    "name": "The CaneHouse",
+    "tagline": "Fresh Sugarcane Juice, Naturally Sweet",
+    "established": "Est. 2024",
+    "logo": "/images/logo/logo.png",
+    "logoSmall": "/images/logo/logo-small.webp",
+    "logoAlt": "The CaneHouse – Fresh Sugarcane Juice logo"
+  },
+  "seo": {
+    "titleTemplate": "%s | The CaneHouse",
+    "defaultTitle": "The CaneHouse – Fresh Sugarcane Juice in Sutton, London",
+    "description": "Fresh sugarcane juice, naturally sweet – pressed right before your eyes in Sutton, London. Classic, pineapple, lemon, ginger and mint cane juice, event catering, home delivery and franchise opportunities.",
+    "image": "/images/sugarcane/hero_juice.jpg",
+    "imageAlt": "A glass of fresh sugarcane juice at The CaneHouse",
+    "twitterHandle": "",
+    "robots": "index, follow, max-image-preview:large"
+  },
+  "business": {
+    "schemaType": "FoodEstablishment",
+    "_help": "Feeds the LocalBusiness structured data and local meta tags. Fill in streetAddress and postalCode once there is a fixed address – Google local results need them.",
+    "geoRegion": "GB-STN",
+    "currenciesAccepted": "GBP",
+    "services": [
+      "Fresh sugarcane juice",
+      "Event catering",
+      "Home delivery",
+      "Bulk orders",
+      "Franchise opportunities"
+    ],
+    "priceRange": "££",
+    "servesCuisine": [
+      "Sugarcane juice",
+      "Fresh juice",
+      "Beverages"
+    ],
+    "address": {
+      "streetAddress": "",
+      "addressLocality": "Sutton",
+      "addressRegion": "London",
+      "postalCode": "",
+      "addressCountry": "GB"
+    },
+    "geo": {
+      "latitude": 51.3618,
+      "longitude": -0.1945
+    },
+    "openingHours": [
+      "Mo-Su 09:00-21:00"
+    ],
+    "areaServed": [
+      "Sutton",
+      "London",
+      "Surrey"
+    ]
+  },
+  "contact": {
+    "phone": "+44 777 046 1939",
+    "email": "thecanehouseuk@gmail.com",
+    "address": "Sutton, London, United Kingdom",
+    "hours": "Mon – Sun, 9:00 AM – 9:00 PM",
+    "website": "thecanehouse.co.uk"
+  },
+  "social": [
+    {
+      "icon": "facebook",
+      "label": "Facebook",
+      "href": "https://www.facebook.com/people/The-Cane-House/61593950600241/"
+    },
+    {
+      "icon": "instagram",
+      "label": "Instagram",
+      "href": "https://www.instagram.com/thecanehouseuk/"
+    },
+    {
+      "icon": "whatsapp",
+      "label": "WhatsApp",
+      "href": "https://wa.me/447770461939"
+    }
+  ],
+  "floating": {
+    "whatsapp": true,
+    "whatsappMessage": "Hi The CaneHouse! I'd like to know more.",
+    "tip": "Say hi! We usually reply within minutes.",
+    "whatsappLabel": "Chat with us",
+    "tipDelay": 4,
+    "scrollTop": true
+  },
+  "cookies": {
+    "title": "A note on cookies",
+    "text": "We use a few essential cookies and your browser's storage to remember choices like this one. Optional cookies (such as visit statistics) are only used if you allow them.",
+    "accept": "Accept all",
+    "essential": "Essentials only",
+    "policyLabel": "Cookie policy",
+    "policyHref": "/cookie-policy",
+    "closeLabel": "Close (essentials only)",
+    "askAgain": {
+      "essentialHours": 24,
+      "acceptDays": 24
+    }
+  },
+  "popup": {
+    "enabled": true,
+    "id": "welcome-2026-11",
+    "pages": [
+      "/"
+    ],
+    "delay": 2.5,
+    "hideHours": 24,
+    "image": "/images/sugarcane/hero_juice.webp",
+    "imageAlt": "A glass of fresh sugarcane juice at The CaneHouse",
+    "eyebrow": "Welcome to The CaneHouse",
+    "title": "Fresh Sugarcane Juice, Naturally Sweet",
+    "text": "Order your favourite sugarcane juice flavours online, book event catering, and explore our full menu — all from your phone.",
+    "buttons": [
+      {
+        "label": "Explore Our Menu",
+        "href": "#drinks",
+        "variant": "primary"
+      },
+      {
+        "label": "Book Event Catering",
+        "href": "/contact#enquiry",
+        "variant": "maroon",
+        "icon": "calendar"
+      }
+    ],
+    "closeLabel": "Close"
+  },
+  "topbar": [
+    "Freshly Pressed",
+    "100% Natural",
+    "Naturally Refreshing",
+    "Always Made With Care"
+  ],
+  "nav": [
+    {
+      "label": "Home",
+      "href": "/",
+      "icon": "store"
+    },
+    {
+      "label": "About Cane",
+      "href": "/all-about-cane",
+      "icon": "sprout"
+    },
+    {
+      "label": "Our Story",
+      "href": "/our-story",
+      "icon": "book"
+    },
+    {
+      "label": "Events",
+      "href": "/events",
+      "icon": "calendar"
+    },
+    {
+      "label": "Franchise",
+      "href": "/franchise",
+      "icon": "handshake"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact",
+      "icon": "mail"
+    }
+  ],
+  "headerCta": {
+    "label": "Book Us",
+    "sub": "For your event",
+    "href": "/contact#enquiry",
+    "icon": "calendar"
+  },
+  "footer": {
+    "columns": [
+      {
+        "title": "Quick Links",
+        "links": [
+          {
+            "label": "Home",
+            "href": "/"
+          },
+          {
+            "label": "Our Story",
+            "href": "/our-story"
+          },
+          {
+            "label": "Franchise",
+            "href": "/franchise"
+          },
+          {
+            "label": "Contact",
+            "href": "/contact"
+          }
+        ]
+      },
+      {
+        "title": "Our Services",
+        "links": [
+          {
+            "label": "Events",
+            "href": "/events"
+          },
+          {
+            "label": "Catering",
+            "href": "/events#event-types"
+          },
+          {
+            "label": "Home Delivery",
+            "href": "/contact#enquiry"
+          },
+          {
+            "label": "Bulk Orders",
+            "href": "/contact#enquiry"
+          }
+        ]
+      }
+    ],
+    "contactTitle": "Contact Us",
+    "followTitle": "Follow Us",
+    "image": "/images/decorative/ingredients/sugarcane-stalks-bundle.webp",
+    "ribbon": [
+      "Freshly Pressed",
+      "100% Natural",
+      "Naturally Refreshing",
+      "Always Made With Care"
+    ],
+    "copyright": "© {year} The CaneHouse. All Rights Reserved.",
+    "legal": [
+      {
+        "label": "Privacy Policy",
+        "href": "/privacy-policy"
+      },
+      {
+        "label": "Cookie Policy",
+        "href": "/cookie-policy"
+      },
+      {
+        "label": "Terms & Conditions",
+        "href": "/terms"
+      }
+    ],
+    "badges": [
+      {
+        "image": "/images/certifications/food-hygiene-rating-5.webp",
+        "alt": "Food Hygiene Rating 5 – Very Good (Food Standards Agency)",
+        "href": "https://ratings.food.gov.uk/"
+      }
+    ],
+    "credit": {
+      "label": "Developed & Maintained by",
+      "name": "Akhilesh Ravuri",
+      "href": "https://viewus.github.io/"
+    }
+  },
+  "tracking": {
+    "_help": "Analytics and ad tags (code in src/services/tracking.js). Paste an ID to switch that tool on, leave it empty to keep it off. Each field takes one ID or several comma separated, e.g. \"G-AAA111, G-BBB222\". googleAdsLeadLabel: labels in the same order as googleAdsId, or write each as \"AW-123/label\". Clarity uses only the first ID. Nothing loads until the visitor picks Accept all on the cookie note. Every event carries site_theme (vintage/luxury), and switching the look sends theme_vintage / theme_luxury (rename with themeSwitch.themes[].trackEvent).",
+    "enabled": true,
+    "gtmId": "",
+    "ga4Id": "",
+    "googleAdsId": "",
+    "googleAdsLeadLabel": "",
+    "metaPixelId": "",
+    "clarityId": "",
+    "debug": false
+  },
+  "liveData": {
+    "_help": "Sections that take their items from an API (docs/apis/live-data.md). A block with \"live\": \"<api>\" (or \"<api>.<part>\") uses the address in apis.<api>. The page first shows the JSON items; a saved copy of the API answer (kept in the browser) then replaces them, and the API is called again only when that copy is older than cacheMinutes. An empty address means the JSON items only.",
+    "cacheMinutes": 60,
+    "apis": {
+      "reviews": "",
+      "instagram": ""
+    }
+  },
+  "forms": {
+    "_help": "Where each form is sent (docs/apis). endpoints has one address per form, keyed by the form's id: enquiry = Contact/Home, event-enquiry = Events, apply = Franchise. A form with no address of its own uses endpoint; with neither, sending is only simulated.",
+    "endpoint": "",
+    "endpoints": {
+      "enquiry": "",
+      "event-enquiry": "",
+      "apply": ""
+    },
+    "method": "POST",
+    "successMessage": "Thank you! Your message has reached The CaneHouse – we'll get back to you within 24 hours.",
+    "errorMessage": "Sorry, something went wrong. Please call or WhatsApp us instead."
+  },
+  "themeSwitch": {
+    "_help": "Icon-only switch in the header between the looks below. The first one is the default. Each look is a class on <html> (theme-<key>) and its styles are in src/themes/<key>/; without a class the page is plain layout (open any page with ?look=none to see it). fonts (optional) is a Google Fonts link loaded only when that look is on. features (optional) switches the shared effects for that look: bubbles, leaves, tilt (on unless false) and coverflow and puzzle (off unless true; puzzle = jigsaw photos, hero built from tiles, anagram titles – motion/puzzle.js). Set enabled to false to hide the switch and keep the default look.",
+    "enabled": true,
+    "themes": [
+      { "key": "vintage", "icon": "leaf", "label": "Vintage", "trackEvent": "theme_vintage" },
+      { "key": "luxury", "icon": "leaf", "label": "Luxury", "trackEvent": "theme_luxury", "features": { "coverflow": true }, "fonts": "https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,600;0,700;0,800;0,900;1,800;1,900&family=Poppins:wght@400;500;600;700;800&family=Dancing+Script:wght@600;700&display=swap" },
+      { "key": "retro", "icon": "leaf", "label": "Retro", "trackEvent": "theme_retro", "fonts": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,600..900,100,1&family=Rubik:wght@400;500;600;700;800&family=Shrikhand&display=swap", "features": { "puzzle": true } }
+    ]
+  },
+  "theme": {
+    "colors": {}
+  }
+}

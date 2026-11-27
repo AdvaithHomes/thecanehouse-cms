@@ -1,0 +1,1312 @@
+{
+  "drinks": {
+    "type": "products",
+    "id": "drinks",
+    "title": "Our Drinks",
+    "layout": "cards",
+    "rail": true,
+    "items": [
+      {
+        "name": "Classic",
+        "sub": "Sugarcane",
+        "text": "Pure, natural & loved for generations.",
+        "image": "/images/sugarcane/drink_classic.webp"
+      },
+      {
+        "name": "Pineapple",
+        "sub": "Sugarcane",
+        "text": "Tropical sweetness blended with fresh-pressed cane.",
+        "image": "/images/sugarcane/drink_pineapple.webp"
+      },
+      {
+        "name": "Lemon & Ginger",
+        "sub": "Sugarcane",
+        "text": "A refreshing twist with lemon and ginger kick.",
+        "image": "/images/sugarcane/drink_lemon.webp"
+      },
+      {
+        "name": "Mint",
+        "sub": "Sugarcane",
+        "text": "Cool, refreshing & perfect for hot summer days.",
+        "image": "/images/sugarcane/drink_mint.webp"
+      },
+      {
+        "name": "Masala",
+        "sub": "Sugarcane",
+        "text": "An Indian masala twist with a spiced finish.",
+        "image": "/images/sugarcane/drink_masala.webp"
+      },
+      {
+        "name": "Mix Fruit",
+        "sub": "Sugarcane",
+        "text": "Fruity & delicious in every sip.",
+        "image": "/images/sugarcane/drink_mixfruit.webp"
+      },
+      {
+        "name": "Orange",
+        "sub": "Sugarcane",
+        "text": "Sun-sweet orange pressed together with fresh cane.",
+        "image": "/images/sugarcane/drink_orange.webp"
+      },
+      {
+        "name": "Watermelon",
+        "sub": "Sugarcane",
+        "text": "A light, juicy cooler for hot summer days.",
+        "image": "/images/sugarcane/drink_watermelon.webp"
+      }
+    ]
+  },
+  "benefits": {
+    "type": "iconGrid",
+    "id": "benefits",
+    "title": "Why Our Sugarcane Juice",
+    "style": "divided",
+    "columns": 5,
+    "items": [
+      {
+        "icon": "cog",
+        "title": "Pressed to Order",
+        "text": "Squeezed fresh, right in front of you."
+      },
+      {
+        "icon": "leaf",
+        "title": "Naturally Sweet",
+        "text": "All the sweetness comes from the cane itself."
+      },
+      {
+        "icon": "droplets",
+        "title": "Naturally Refreshing",
+        "text": "A cool, refreshing drink on a warm day."
+      },
+      {
+        "icon": "sprout",
+        "title": "Natural Ingredients",
+        "text": "100% natural, nothing artificial."
+      },
+      {
+        "icon": "sparkles",
+        "title": "Fresh Flavours",
+        "text": "Lemon, ginger, mint or pineapple, added fresh."
+      }
+    ]
+  },
+  "serve": {
+    "type": "steps",
+    "id": "how-we-serve",
+    "title": "How We Serve You",
+    "items": [
+      {
+        "number": "01",
+        "icon": "glass",
+        "title": "Order",
+        "text": "Choose your favourite drink or place your bulk order.",
+        "button": {
+          "label": "Order Now",
+          "href": "/contact#enquiry"
+        }
+      },
+      {
+        "number": "02",
+        "icon": "message",
+        "title": "Enquiry",
+        "text": "Tell us your needs. We'll get back within 24 hours.",
+        "button": {
+          "label": "Enquire Now",
+          "href": "/contact#enquiry"
+        }
+      },
+      {
+        "number": "03",
+        "icon": "store",
+        "title": "Franchise",
+        "text": "Join our family and grow together with The CaneHouse.",
+        "button": {
+          "label": "Explore Franchises",
+          "href": "/franchise"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "type": "gallery",
+    "id": "gallery",
+    "title": "Gallery",
+    "filters": [
+      "All",
+      "Sugarcane",
+      "Drinks",
+      "Our Stall",
+      "Events",
+      "People",
+      "Memories"
+    ],
+    "limit": 8,
+    "items": [
+      {
+        "image": "/images/sugarcane/stacks.webp",
+        "alt": "Bundles of fresh sugarcane",
+        "category": "Sugarcane"
+      },
+      {
+        "image": "/images/sugarcane/hero_juice.webp",
+        "alt": "Fresh sugarcane juice beside the press",
+        "category": "Drinks"
+      },
+      {
+        "image": "/images/backgrounds/machine/old_machine.webp",
+        "alt": "Our traditional cane press",
+        "category": "Our Stall"
+      },
+      {
+        "image": "/images/sugarcane/drink_classic.webp",
+        "alt": "Classic sugarcane juice",
+        "category": "Drinks"
+      },
+      {
+        "image": "/images/gallery/stall_event_3.webp",
+        "alt": "The CaneHouse stall at a town-centre event",
+        "category": "Events"
+      },
+      {
+        "image": "/images/gallery/stall_event_2.webp",
+        "alt": "Guests enjoying cane juice",
+        "category": "People"
+      },
+      {
+        "image": "/images/gallery/stall_event_3.webp",
+        "alt": "Pressing juice live at an event",
+        "category": "Events"
+      },
+      {
+        "image": "/images/gallery/stall_event_4.webp",
+        "alt": "Our stall lit up at night",
+        "category": "Our Stall"
+      },
+      {
+        "image": "/images/sugarcane/story_moments.webp",
+        "alt": "Friends sharing sugarcane juice",
+        "category": "Memories"
+      },
+      {
+        "image": "/images/sugarcane/sugarcane_stalks_etching.webp",
+        "alt": "Vintage etching of sugarcane stalks",
+        "category": "Sugarcane"
+      },
+      {
+        "image": "/images/backgrounds/vintage_coldpress_bar_catering.webp",
+        "alt": "Vintage cold press bar for catering",
+        "category": "Our Stall"
+      },
+      {
+        "image": "/images/sugarcane/combo.webp",
+        "alt": "Combo of cane juices",
+        "category": "Drinks"
+      }
+    ]
+  },
+  "memories": {
+    "type": "imageCards",
+    "id": "memories",
+    "title": "Memories of Sugarcane",
+    "captionStyle": "script",
+    "rail": true,
+    "items": [
+      {
+        "image": "/images/sugarcane/combo.webp",
+        "title": "Summer Days"
+      },
+      {
+        "image": "/images/sugarcane/story_moments.webp",
+        "title": "Family Moments"
+      },
+      {
+        "image": "/images/backgrounds/machine/old_machine.webp",
+        "title": "Timeless Tradition"
+      },
+      {
+        "image": "/images/backgrounds/vintage_coldpress_bar_catering.webp",
+        "title": "Simple Joys"
+      }
+    ],
+    "autoplay": true
+  },
+  "franchiseInfo": {
+    "type": "carousel",
+    "id": "franchise-information",
+    "title": "Grow With The CaneHouse",
+    "tag": "Franchise Information",
+    "items": [
+      {
+        "icon": "store",
+        "title": "Flexible Business Model",
+        "text": "Four models to suit your area and plans – city kiosk, event franchise, community outlet or mobile cart."
+      },
+      {
+        "icon": "landmark",
+        "title": "Traditional Experience",
+        "text": "Serve pure, natural sugarcane juice that people love."
+      },
+      {
+        "icon": "graduation",
+        "title": "Training & Support",
+        "text": "Complete training, marketing support & continuous guidance."
+      },
+      {
+        "icon": "trending",
+        "title": "Grow With The Brand",
+        "text": "Be part of a growing brand with strong customer loyalty."
+      },
+      {
+        "icon": "handshake",
+        "title": "Proven Partnership",
+        "text": "Partners who share our values of quality and care."
+      }
+    ],
+    "autoplay": true
+  },
+  "orderTestimonials": {
+    "type": "testimonials",
+    "id": "order-experiences",
+    "live": "reviews.order",
+    "tag": "Order Experiences",
+    "items": [
+      {
+        "quote": "Super fresh and best taste! Delivered right on time.",
+        "name": "Neha Sharma",
+        "meta": "Sutton, UK",
+        "rating": 5
+      },
+      {
+        "quote": "We ordered for our office event. Everyone loved the juice!",
+        "name": "Office Event",
+        "meta": "London",
+        "rating": 5,
+        "stamp": true
+      },
+      {
+        "quote": "Love the home delivery service. So convenient!",
+        "name": "Sofia Khan",
+        "meta": "Home Delivery",
+        "rating": 5
+      }
+    ],
+    "autoplay": true
+  },
+  "eventInfo": {
+    "type": "iconGrid",
+    "id": "our-events",
+    "title": "Our Events",
+    "tag": "Event Information",
+    "style": "boxed",
+    "columns": 4,
+    "items": [
+      {
+        "icon": "glass",
+        "title": "Live Sugarcane Pressing",
+        "text": "Freshly pressed live in front of your guests."
+      },
+      {
+        "icon": "party",
+        "title": "Perfect for Every Occasion",
+        "text": "Weddings, parties, corporate events & more."
+      },
+      {
+        "icon": "sprout",
+        "title": "Hygienic & Natural",
+        "text": "100% natural juice, clean and safe."
+      },
+      {
+        "icon": "gift",
+        "title": "Custom Packages",
+        "text": "Tailored to your event size and budget."
+      }
+    ]
+  },
+  "eventCards": {
+    "type": "imageCards",
+    "id": "event-types",
+    "tag": "Event Carousel",
+    "rail": true,
+    "items": [
+      {
+        "image": "/images/sugarcane/hero_juice.webp",
+        "title": "Wedding Celebration",
+        "text": "Make your special day even sweeter."
+      },
+      {
+        "image": "/images/gallery/stall_event_2.webp",
+        "title": "College Fest",
+        "text": "Keep students refreshed with fresh-pressed juice."
+      },
+      {
+        "image": "/images/gallery/stall_event_3.webp",
+        "title": "Corporate Event",
+        "text": "A fresh, alcohol-free treat for the whole team."
+      },
+      {
+        "image": "/images/gallery/stall_event_4.webp",
+        "title": "Birthday Party",
+        "text": "Add a refreshing touch to your celebration."
+      }
+    ],
+    "autoplay": true
+  },
+  "eventTestimonials": {
+    "type": "testimonials",
+    "id": "event-reviews",
+    "live": "reviews.events",
+    "items": [
+      {
+        "quote": "The juice was a huge hit at our wedding! Our guests loved it!",
+        "name": "Priya & Arjun",
+        "meta": "Wedding, London",
+        "rating": 5,
+        "stamp": true
+      },
+      {
+        "quote": "Such a great team and service. They made our college fest extra special!",
+        "name": "Greenfield College",
+        "meta": "Sutton, UK",
+        "rating": 5
+      },
+      {
+        "quote": "Highly professional team and amazing taste. Perfect for any corporate event.",
+        "name": "TechWave Solutions",
+        "meta": "Sutton, UK",
+        "rating": 5
+      }
+    ],
+    "autoplay": true
+  },
+  "franchiseCards": {
+    "type": "imageCards",
+    "id": "franchise-opportunities",
+    "title": "Sugarcane Juice Business Opportunities",
+    "tag": "Franchise Carousel",
+    "rail": true,
+    "items": [
+      {
+        "image": "/images/gallery/stall_event_4.webp",
+        "title": "City Kiosk",
+        "text": "A food kiosk franchise for shopping centres, high streets and other busy spots.",
+        "alt": "CaneHouse city kiosk pressing fresh sugarcane juice"
+      },
+      {
+        "image": "/images/backgrounds/vintage_coldpress_bar_catering.webp",
+        "title": "Event Franchise",
+        "text": "Event juice catering at fairs, festivals, weddings and corporate days.",
+        "alt": "Vintage CaneHouse juice bar set up for event catering"
+      },
+      {
+        "image": "/images/gallery/stall_event_3.webp",
+        "title": "Community Outlet",
+        "text": "Serve your local community with freshness & care.",
+        "alt": "CaneHouse community stall serving sugarcane juice"
+      },
+      {
+        "image": "/images/gallery/stall_event_2.webp",
+        "title": "Mobile Cart",
+        "text": "Take freshness anywhere with our mobile setup.",
+        "alt": "CaneHouse mobile sugarcane juice stall at an event"
+      }
+    ],
+    "autoplay": true
+  },
+  "franchiseTestimonials": {
+    "type": "testimonials",
+    "id": "partner-reviews",
+    "live": "reviews.franchise",
+    "items": [
+      {
+        "quote": "Great brand support and training. My outlet is doing excellent & growing fast.",
+        "name": "Ramesh Kumar",
+        "meta": "Partner, Croydon",
+        "rating": 5
+      },
+      {
+        "quote": "The CaneHouse is a trusted brand. Customers love the taste and quality!",
+        "name": "Aisha Patel",
+        "meta": "Partner, Wembley",
+        "rating": 5
+      },
+      {
+        "quote": "Profitable business with amazing guidance. Highly recommended!",
+        "name": "David Wilson",
+        "meta": "Partner, Sutton",
+        "rating": 5
+      }
+    ],
+    "autoplay": true
+  },
+  "enquiryCta": {
+    "type": "cta",
+    "id": "direct-enquiry",
+    "title": "Direct Enquiry",
+    "text": "Have a question or special request? We are here to help!",
+    "button": {
+      "label": "Make an Enquiry",
+      "href": "/contact#enquiry"
+    },
+    "image": "/images/decorative/ingredients/sugarcane-stalks-crossed.webp"
+  },
+  "franchiseEventsCta": {
+    "type": "cta",
+    "id": "franchise-events",
+    "title": "See the Stall in Action",
+    "text": "Find out how a CaneHouse stall works on the day, from live pressing to serving guests.",
+    "button": {
+      "label": "Event Juice Catering",
+      "href": "/events"
+    },
+    "image": "/images/decorative/ingredients/sugarcane-stalks-crossed.webp"
+  },
+  "faq": {
+    "type": "faq",
+    "id": "faq",
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "What events do you cater for?",
+        "a": "Weddings, birthdays, college fests, corporate events, festivals, markets and private parties – if there are thirsty guests, we'll be there."
+      },
+      {
+        "q": "Where do you provide your service?",
+        "a": "We are based in Sutton and serve all of London and Surrey. For events further away just ask – we travel."
+      },
+      {
+        "q": "Can I book The CaneHouse for a wedding?",
+        "a": "Absolutely. We set up our vintage stall and press fresh juice live for your guests. Send us your date and guest count for a quote."
+      },
+      {
+        "q": "Do you provide custom event packages?",
+        "a": "Yes. Packages are tailored to your guest numbers, flavours, serving hours and budget."
+      },
+      {
+        "q": "How far in advance should I book?",
+        "a": "For weekends and weddings we recommend 4–8 weeks. Smaller orders can often be arranged within a few days."
+      },
+      {
+        "q": "Can I order sugarcane juice online?",
+        "a": "Yes – place an order through our enquiry form, phone or WhatsApp for home delivery and bulk orders."
+      },
+      {
+        "q": "Do you offer franchise opportunities?",
+        "a": "Yes. We offer kiosk, event, community and mobile cart franchise models with full training and support."
+      },
+      {
+        "q": "Where can I make an enquiry?",
+        "a": "Use the enquiry form on our Contact page, call +44 777 046 1939 or message us on WhatsApp."
+      }
+    ]
+  },
+  "contactForm": {
+    "type": "contactForm",
+    "id": "enquiry",
+    "title": "Get in Touch",
+    "submitLabel": "Send Message",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Your Name",
+        "type": "text",
+        "required": true,
+        "autocomplete": "name"
+      },
+      {
+        "name": "email",
+        "label": "Email Address",
+        "type": "email",
+        "required": true,
+        "half": true,
+        "autocomplete": "email"
+      },
+      {
+        "name": "phone",
+        "label": "Phone Number",
+        "type": "tel",
+        "required": false,
+        "half": true,
+        "autocomplete": "tel"
+      },
+      {
+        "name": "subject",
+        "label": "What is it about?",
+        "type": "select",
+        "options": [
+          "A general question",
+          "Order juice / home delivery",
+          "Bulk order",
+          "Feedback",
+          "Something else"
+        ]
+      },
+      {
+        "name": "message",
+        "label": "Your Message",
+        "type": "textarea",
+        "required": true
+      }
+    ]
+  },
+  "eventForm": {
+    "type": "contactForm",
+    "id": "event-enquiry",
+    "title": "Book Us For Your Event",
+    "submitLabel": "Request a Quote",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Your Name",
+        "type": "text",
+        "required": true,
+        "autocomplete": "name"
+      },
+      {
+        "name": "email",
+        "label": "Email Address",
+        "type": "email",
+        "required": true,
+        "half": true,
+        "autocomplete": "email"
+      },
+      {
+        "name": "phone",
+        "label": "Phone Number",
+        "type": "tel",
+        "required": true,
+        "half": true,
+        "autocomplete": "tel"
+      },
+      {
+        "name": "eventType",
+        "label": "Type of Event",
+        "type": "select",
+        "required": true,
+        "half": true,
+        "options": [
+          "Wedding",
+          "Birthday Party",
+          "Corporate Event",
+          "College Fest",
+          "Festival / Market",
+          "Private Party",
+          "Other"
+        ]
+      },
+      {
+        "name": "eventDate",
+        "label": "Event Date",
+        "type": "date",
+        "half": true
+      },
+      {
+        "name": "guests",
+        "label": "Number of Guests",
+        "type": "number",
+        "half": true
+      },
+      {
+        "name": "venue",
+        "label": "Venue / Location",
+        "type": "text",
+        "half": true
+      },
+      {
+        "name": "message",
+        "label": "Tell us about your event (serving hours, flavours, anything else)",
+        "type": "textarea"
+      }
+    ]
+  },
+  "franchiseForm": {
+    "type": "contactForm",
+    "id": "apply",
+    "title": "Apply For a Franchise",
+    "submitLabel": "Send Application",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Your Name",
+        "type": "text",
+        "required": true,
+        "autocomplete": "name",
+        "half": true
+      },
+      {
+        "name": "email",
+        "label": "Email Address",
+        "type": "email",
+        "required": true,
+        "half": true,
+        "autocomplete": "email"
+      },
+      {
+        "name": "phone",
+        "label": "Phone Number",
+        "type": "tel",
+        "required": true,
+        "half": true,
+        "autocomplete": "tel"
+      },
+      {
+        "name": "area",
+        "label": "Area / Town You Have in Mind",
+        "type": "text",
+        "required": true,
+        "half": true
+      },
+      {
+        "name": "model",
+        "label": "Franchise Model",
+        "type": "select",
+        "half": true,
+        "options": [
+          "City Kiosk",
+          "Event Franchise",
+          "Community Outlet",
+          "Mobile Cart",
+          "Not sure yet"
+        ]
+      },
+      {
+        "name": "timeline",
+        "label": "When Would You Like to Start?",
+        "type": "select",
+        "half": true,
+        "options": [
+          "As soon as possible",
+          "In 3–6 months",
+          "In 6–12 months",
+          "Just exploring"
+        ]
+      },
+      {
+        "name": "message",
+        "label": "Tell us a little about yourself and why you would like to join",
+        "type": "textarea",
+        "required": true
+      }
+    ]
+  },
+  "contactInfo": {
+    "type": "contactInfo",
+    "id": "lets-connect",
+    "title": "Let's Connect",
+    "decor": {
+      "right": "/images/decorative/ingredients/sugarcane-plant-with-roots.webp"
+    }
+  },
+  "prefooterQuote": {
+    "type": "quote",
+    "id": "thank-you",
+    "title": "Pre-Footer Message",
+    "hideTitle": true,
+    "lines": [
+      "Thank you for supporting",
+      "tradition, freshness and",
+      "memories with every sip."
+    ],
+    "image": "/images/backgrounds/sugarcane-stalks-bundle.webp"
+  },
+  "faqCane": {
+    "type": "faq",
+    "id": "faq-sugarcane",
+    "title": "About Sugarcane",
+    "items": [
+      {
+        "q": "Is sugarcane juice safe for diabetics?",
+        "a": "Sugarcane juice is naturally sweet and contains natural sugars, so people with diabetes should enjoy it only in moderation and after speaking with their doctor."
+      },
+      {
+        "q": "Does sugarcane juice have calories?",
+        "a": "Yes. Sugarcane juice contains naturally occurring sugars, so it does contain calories. Please ask us if you would like more detail."
+      },
+      {
+        "q": "How is your juice different?",
+        "a": "We press premium cane fresh in front of you with nothing added – no sugar, water, colours or preservatives – just pure cane."
+      },
+      {
+        "q": "Is your juice 100% natural?",
+        "a": "Yes. Our juice is 100% natural. Flavours like lemon, ginger and mint are added fresh."
+      },
+      {
+        "q": "How should I store it?",
+        "a": "Fresh cane juice is best enjoyed straight away. If needed, refrigerate in a sealed bottle and drink within 24 hours."
+      }
+    ]
+  },
+  "faqEvents": {
+    "type": "faq",
+    "id": "faq-events",
+    "title": "Event Questions",
+    "items": [
+      {
+        "q": "What kinds of events do you cater for?",
+        "a": "Weddings, birthdays, college fests, corporate events, festivals, markets and private parties – if there are thirsty guests, we can be there."
+      },
+      {
+        "q": "How far in advance should I book?",
+        "a": "For weekends and weddings we recommend 4–8 weeks. Smaller events can often be arranged within a few days – just ask."
+      },
+      {
+        "q": "Which areas do you cover?",
+        "a": "We are based in Sutton and serve London and Surrey. For events further away, send us the location and we will let you know."
+      },
+      {
+        "q": "Do you press the juice live at the event?",
+        "a": "Yes. We set up our vintage stall and press fresh sugarcane live in front of your guests – it is part of the show."
+      },
+      {
+        "q": "Can the package be tailored to my event?",
+        "a": "Yes. Packages are built around your guest numbers, flavours, serving hours and budget."
+      },
+      {
+        "q": "What do you need from the venue?",
+        "a": "Usually a flat space for the stall and access to a power point. Tell us about your venue when you enquire and we will confirm what we need."
+      },
+      {
+        "q": "Are you insured and food-safety trained?",
+        "a": "Yes. Through NCASS we have public & product liability insurance, a documented food safety system and food hygiene training."
+      },
+      {
+        "q": "How do I get a quote?",
+        "a": "Send us your date, location and guest count using the enquiry form on this page, or call or WhatsApp us."
+      }
+    ]
+  },
+  "faqFranchise": {
+    "type": "faq",
+    "id": "faq-franchise",
+    "title": "Franchise Questions",
+    "items": [
+      {
+        "q": "What franchise models do you offer?",
+        "a": "There are four: City Kiosk, Event Franchise, Community Outlet and Mobile Cart. We will help you choose the one that suits your area and plans."
+      },
+      {
+        "q": "Do I need experience in food or drinks?",
+        "a": "No. We train you in pressing, serving, hygiene and running the stall day to day."
+      },
+      {
+        "q": "What training and support do I get?",
+        "a": "Full training before you open, plus marketing support and ongoing guidance once you are trading."
+      },
+      {
+        "q": "How much does it cost to start?",
+        "a": "It depends on the model and location. Send us an application and we will share the full details with you."
+      },
+      {
+        "q": "Where can I open a franchise?",
+        "a": "Tell us the area you have in mind in your application and we will talk through whether it is a good fit."
+      },
+      {
+        "q": "Can I open a sugarcane juice franchise in London?",
+        "a": "Yes. We are based in Sutton, London, and welcome applications from London and the rest of the UK. Tell us the area you have in mind and we will talk it through with you."
+      },
+      {
+        "q": "Can a franchise offer event juice catering?",
+        "a": "Yes. The Event Franchise model is built for fairs, festivals, weddings and corporate days, pressing fresh sugarcane juice in front of guests."
+      },
+      {
+        "q": "Will I use The CaneHouse name and stall style?",
+        "a": "Yes. Partners trade as The CaneHouse with our vintage look, recipes and way of serving fresh cane juice."
+      },
+      {
+        "q": "How do I apply?",
+        "a": "Fill in the franchise application form on this page. We will get back to you to arrange a chat."
+      }
+    ]
+  },
+  "trust": {
+    "type": "trust",
+    "id": "certified",
+    "title": "Certified Clean & Safe",
+    "variant": "ivory",
+    "featured": {
+      "layout": "center",
+      "image": "/images/certifications/ncass_logo.webp",
+      "title": "NCASS Member",
+      "button": {
+        "label": "About NCASS",
+        "href": "https://www.ncass.org.uk/",
+        "variant": "outline"
+      },
+      "stamp": {
+        "top": "NCASS",
+        "bottom": "Member"
+      }
+    },
+    "company": {
+      "items": [
+        {
+          "icon": "store",
+          "label": "Business",
+          "value": "The CaneHouse – fresh sugarcane juice, Sutton, London"
+        },
+        {
+          "icon": "award",
+          "label": "Member of",
+          "value": "NCASS – Nationwide Caterers Association"
+        },
+        {
+          "icon": "shield",
+          "label": "Insurance",
+          "value": "Public & product liability insurance through NCASS"
+        },
+        {
+          "icon": "shieldCheck",
+          "label": "Food safety",
+          "value": "Documented food safety & HACCP system (NCASS)"
+        },
+        {
+          "icon": "graduation",
+          "label": "Hygiene training",
+          "value": "Food hygiene trained through NCASS"
+        },
+        {
+          "icon": "leaf",
+          "label": "Allergens",
+          "value": "NCASS allergen guidance followed – information available on request"
+        }
+      ]
+    }
+  },
+  "videos": {
+    "type": "videos",
+    "id": "videos",
+    "title": "Watch The CaneHouse",
+    "featured": {
+      "youtubeId": "",
+      "title": "From Cane to Glass – Our Traditional Press",
+      "text": "Watch fresh sugarcane being pressed live at our stall.",
+      "image": "/images/backgrounds/machine/old_machine.webp",
+      "duration": "2:45",
+      "href": "https://www.youtube.com/"
+    },
+    "items": [
+      {
+        "youtubeId": "",
+        "title": "A Day at Our Stall",
+        "text": "Behind the scenes in Sutton.",
+        "image": "/images/gallery/stall_event_4.webp",
+        "duration": "1:30",
+        "href": "https://www.youtube.com/"
+      },
+      {
+        "youtubeId": "",
+        "title": "Wedding Juice Bar Setup",
+        "text": "How we bring the press to your big day.",
+        "image": "/images/sugarcane/hero_juice.webp",
+        "duration": "3:10",
+        "href": "https://www.youtube.com/"
+      },
+      {
+        "youtubeId": "",
+        "title": "Why Sugarcane Juice?",
+        "text": "The story of the cane in two minutes.",
+        "image": "/images/sugarcane/drink_classic.webp",
+        "duration": "2:05",
+        "href": "https://www.youtube.com/"
+      }
+    ]
+  },
+  "social": {
+    "type": "social",
+    "id": "social",
+    "live": "instagram",
+    "title": "Love From Social Media",
+    "autoplay": true,
+    "profile": "https://www.instagram.com/thecanehouseuk/",
+    "handle": "@thecanehouseuk",
+    "items": [
+      {
+        "type": "instagram",
+        "url": "",
+        "image": "/images/sugarcane/drink_mint.webp",
+        "caption": "Mint cane on a hot Sutton afternoon #freshlypressed",
+        "likes": "248 likes"
+      },
+      {
+        "type": "review",
+        "source": "Google Review",
+        "rating": 5,
+        "quote": "Best sugarcane juice in London. Pressed right in front of you – tastes just like back home!",
+        "name": "Anita R.",
+        "meta": "Sutton"
+      },
+      {
+        "type": "instagram",
+        "url": "",
+        "image": "/images/gallery/stall_event_3.webp",
+        "caption": "Live pressing at the weekend market – come say hi!",
+        "likes": "312 likes"
+      },
+      {
+        "type": "review",
+        "source": "Facebook Review",
+        "rating": 5,
+        "quote": "They catered our wedding and guests could not stop talking about the juice bar.",
+        "name": "Priya & Arjun",
+        "meta": "Wedding, London"
+      },
+      {
+        "type": "instagram",
+        "url": "",
+        "image": "/images/sugarcane/drink_pineapple.webp",
+        "caption": "Pineapple + cane = summer in a glass",
+        "likes": "190 likes"
+      },
+      {
+        "type": "review",
+        "source": "Google Review",
+        "rating": 5,
+        "quote": "Friendly team, spotless stall and real fresh juice. 10/10.",
+        "name": "Mark T.",
+        "meta": "Croydon"
+      }
+    ],
+    "posts": {
+      "title": "Shared On Social Media",
+      "_help": "Embedded posts and reels from other people (Instagram, YouTube, Shorts, TikTok): paste the link as url. Shown as their own row. hideLink: true also hides the \"View more on Instagram\" line.",
+      "hideLink": true,
+      "items": [
+        {
+          "url": "https://www.instagram.com/reel/Dcv0v5zt3zd/",
+          "title": ""
+        }
+      ]
+    },
+    "embeds": {
+      "title": "Our Reels",
+      "_help": "Paste an Instagram post/reel, YouTube video/Short or TikTok link into \"url\". The image shows first; the video loads when tapped. With no url the card links to \"href\" or the Instagram profile.",
+      "items": [
+        {
+          "url": "https://www.instagram.com/p/DbYAOhAh81V/",
+          "title": ""
+        },
+        {
+          "url": "https://www.instagram.com/p/DgFn9ZcAldj/",
+          "title": ""
+        },
+        {
+          "url": "https://www.instagram.com/reel/DdMnjoxKpk2/",
+          "title": ""
+        },
+        {
+          "url": "https://www.instagram.com/reel/Dd0rPTiKxsj/",
+          "title": ""
+        },
+        {
+          "url": "https://www.instagram.com/p/DbvurbygYYL/",
+          "title": ""
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfemOYTRvHu/",
+          "title": ""
+        },
+        {
+          "url": "https://www.instagram.com/reel/DePeUKvCh8G/",
+          "title": ""
+        },
+        {
+          "url": "https://www.instagram.com/reel/DeHjr5TipJl/",
+          "title": ""
+        },
+        {
+          "url": "https://www.instagram.com/reel/Dd9VZMwCNzF/",
+          "title": ""
+        }
+      ]
+    },
+    "latest": {
+      "title": "Latest On Our Instagram",
+      "_help": "Photo posts from our Instagram (paste the post link as url). Newest first.",
+      "items": [
+        {
+          "url": "https://www.instagram.com/p/DgIVJ6bCP3U/",
+          "title": ""
+        },
+        {
+          "url": "https://www.instagram.com/p/DeSF_BWAtVj/",
+          "title": ""
+        },
+        {
+          "url": "https://www.instagram.com/p/DeM4dkzAsS-/",
+          "title": ""
+        },
+        {
+          "url": "https://www.instagram.com/p/DeKOhR5gvA9/",
+          "title": ""
+        },
+        {
+          "url": "https://www.instagram.com/p/DeCQIRNAl1C/",
+          "title": ""
+        },
+        {
+          "url": "https://www.instagram.com/p/DeAbliXivzF/",
+          "title": ""
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd648FlgiEp/",
+          "title": ""
+        }
+      ]
+    },
+    "feed": {
+      "title": "Our Social Feeds",
+      "_help": "Paste an Instagram profile link (https://www.instagram.com/name/) or a Facebook page link to show its latest posts. Instagram and Facebook update them by themselves.",
+      "min": 360,
+      "items": [
+        {
+          "url": "https://www.instagram.com/thecanehouseuk/",
+          "title": ""
+        },
+        {
+          "url": "https://www.facebook.com/people/The-Cane-House/61593950600241/",
+          "title": ""
+        }
+      ]
+    },
+    "button": {
+      "label": "Follow us on Instagram",
+      "href": "https://www.instagram.com/thecanehouseuk/",
+      "icon": "instagram"
+    },
+    "_help": "Row 1 (items): hand-written Instagram cards and reviews, plus { \"type\": \"embed\", \"url\": \"…\" } for any Instagram/YouTube/TikTok link. Row 2 (embeds.items): your own reels – paste the post link into url."
+  },
+  "featureStall": {
+    "type": "feature",
+    "id": "from-our-stall",
+    "title": "From Our Stall",
+    "big": {
+      "image": "/images/gallery/stall_event_3.webp",
+      "tag": "Live Pressing",
+      "title": "Pressed In Front Of You",
+      "text": [
+        "No bottles, no shortcuts. We feed whole cane through our traditional press and pour it straight into your glass – the way it has been done for generations."
+      ],
+      "button": {
+        "label": "Book For Your Event",
+        "href": "/events"
+      }
+    },
+    "items": [
+      {
+        "image": "/images/sugarcane/combo.webp",
+        "title": "Home Delivery",
+        "text": "Fresh juice at your doorstep across Sutton.",
+        "href": "/contact#enquiry"
+      },
+      {
+        "image": "/images/backgrounds/vintage_coldpress_bar_catering.webp",
+        "title": "Event Catering",
+        "text": "Weddings, fests and corporate days.",
+        "href": "/events"
+      },
+      {
+        "image": "/images/gallery/stall_event_4.webp",
+        "title": "Franchise",
+        "text": "Grow with The CaneHouse.",
+        "href": "/franchise"
+      },
+      {
+        "image": "/images/backgrounds/sugarcane_farm_plantation_engraving.webp",
+        "title": "All About Cane",
+        "text": "The story behind sugarcane.",
+        "href": "/all-about-cane"
+      }
+    ]
+  },
+  "calendar": {
+    "type": "calendar",
+    "id": "calendar",
+    "title": "Event Calendar",
+    "intro": "Wherever we set up our press, you'll find it here. Tap a date for times, directions and to save it to your calendar.",
+    "events": [
+      {
+        "id": "sfm-1121",
+        "title": "Sutton Farmers Market",
+        "type": "Market",
+        "date": "2026-11-21",
+        "start": "09:00",
+        "end": "14:00",
+        "venue": "Sutton High Street",
+        "address": "High Street, Sutton SM1 1DA",
+        "text": "Our weekly market stall – fresh classic, mint and ginger cane juice pressed live.",
+        "image": "/images/gallery/stall_event_4.webp"
+      },
+      {
+        "id": "sfm-1128",
+        "title": "Sutton Farmers Market",
+        "type": "Market",
+        "date": "2026-11-28",
+        "start": "09:00",
+        "end": "14:00",
+        "venue": "Sutton High Street",
+        "address": "High Street, Sutton SM1 1DA",
+        "text": "Weekly market stall – come early for the first pressing of the day.",
+        "image": "/images/gallery/stall_event_3.webp"
+      },
+      {
+        "id": "croydon-xmas",
+        "title": "Croydon Christmas Market",
+        "type": "Festival",
+        "date": "2026-12-04",
+        "endDate": "2026-12-06",
+        "start": "11:00",
+        "end": "20:00",
+        "venue": "Surrey Street",
+        "address": "Surrey Street, Croydon CR0 1RG",
+        "text": "Three days of festive cane juice – try our warm ginger & spice special.",
+        "image": "/images/gallery/stall_event_2.webp"
+      },
+      {
+        "id": "sfm-1212",
+        "title": "Sutton Farmers Market",
+        "type": "Market",
+        "date": "2026-12-12",
+        "start": "09:00",
+        "end": "14:00",
+        "venue": "Sutton High Street",
+        "address": "High Street, Sutton SM1 1DA",
+        "text": "Christmas edition of our weekly market stall.",
+        "image": "/images/gallery/stall_event_4.webp"
+      },
+      {
+        "id": "kingston-winter",
+        "title": "Kingston Winter Food Fair",
+        "type": "Food Fair",
+        "date": "2026-12-19",
+        "endDate": "2026-12-20",
+        "start": "10:00",
+        "end": "18:00",
+        "venue": "Kingston Market Place",
+        "address": "Market Place, Kingston upon Thames KT1 1JS",
+        "text": "Street-food weekend – cane juice, combos and family packs.",
+        "image": "/images/backgrounds/vintage_coldpress_bar_catering.webp"
+      },
+      {
+        "id": "nye-popup",
+        "title": "New Year Pop-up",
+        "type": "Pop-up",
+        "date": "2026-12-31",
+        "start": "16:00",
+        "end": "23:30",
+        "venue": "Sutton Green",
+        "address": "Sutton Green, Sutton SM1",
+        "text": "Toast the New Year with a glass of fresh cane – alcohol-free and full of flavour.",
+        "image": "/images/sugarcane/hero_juice.webp"
+      },
+      {
+        "id": "pongal-2027",
+        "title": "Pongal & Sankranti Harvest Festival",
+        "type": "Festival",
+        "date": "2027-01-16",
+        "start": "11:00",
+        "end": "19:00",
+        "venue": "Croydon Community Hall",
+        "address": "Croydon CR0",
+        "text": "Celebrate the harvest festival of sugarcane with us – cane stalks, juice and jaggery treats.",
+        "image": "/images/sugarcane/story_moments.webp"
+      },
+      {
+        "id": "sfm-0123",
+        "title": "Sutton Farmers Market",
+        "type": "Market",
+        "date": "2027-01-23",
+        "start": "09:00",
+        "end": "14:00",
+        "venue": "Sutton High Street",
+        "address": "High Street, Sutton SM1 1DA",
+        "text": "Our weekly market stall returns for the new year.",
+        "image": "/images/gallery/stall_event_4.webp"
+      },
+      {
+        "id": "wedding-show",
+        "title": "South London Wedding Show",
+        "type": "Exhibition",
+        "date": "2027-02-07",
+        "start": "10:00",
+        "end": "16:00",
+        "venue": "Epsom Downs Racecourse",
+        "address": "Epsom Downs, Epsom KT18 5LQ",
+        "text": "Planning a wedding? Taste our juice bar and talk packages with the team.",
+        "image": "/images/gallery/stall_event_2.webp"
+      }
+    ]
+  },
+  "upcoming": {
+    "ref": "calendar",
+    "view": "list",
+    "limit": 3,
+    "id": "find-us-next",
+    "title": "Where To Find Us Next",
+    "intro": ""
+  },
+  "caneGame": {
+    "type": "caneGame",
+    "id": "cane-cutter",
+    "tag": "Play",
+    "title": "Cane Cutter",
+    "gameTitle": "Cane Cutter",
+    "intro": "Swipe to slice the sugarcane and fruit as they fly up. Don’t let them drop – and never cut the stones!",
+    "text": {
+      "play": "Start cutting",
+      "again": "Play again",
+      "score": "Score",
+      "best": "Best",
+      "lives": "Lives",
+      "over": "Time for a fresh glass!",
+      "newBest": "New best score!",
+      "hint": "Swipe across the pieces to slice them",
+      "a11y": "Cane Cutter mini game: slice the flying sugarcane and fruit",
+      "pause": "Pause",
+      "resume": "Resume",
+      "paused": "Paused",
+      "soundOn": "Turn sound off",
+      "soundOff": "Turn sound on",
+      "fullscreen": "Full screen",
+      "exitFullscreen": "Exit full screen"
+    },
+    "settings": {
+      "lives": 3,
+      "peak": [
+        0.55,
+        0.88
+      ],
+      "spawnEvery": [
+        0.8,
+        1.4
+      ],
+      "perWave": [
+        1,
+        3
+      ],
+      "points": {
+        "cane": 2,
+        "fruit": 1
+      },
+      "fruits": [
+        "lemon",
+        "lime",
+        "lime-half",
+        "orange-slice"
+      ],
+      "folder": "/images/decorative/fruits/cut/",
+      "fruitSize": [
+        54,
+        74
+      ],
+      "caneLength": [
+        110,
+        150
+      ],
+      "stoneChance": 0.12,
+      "caneImages": [
+        "cane-log",
+        "cane-stalk"
+      ],
+      "sound": true
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "key": "cookiePolicy",
+  "path": "/cookie-policy",
+  "label": "Cookie Policy",
+  "sitemap": {
+    "priority": 0.3,
+    "changefreq": "yearly"
+  },
+  "seo": {
+    "title": "Cookie Policy",
+    "description": "Which cookies and browser storage The CaneHouse website uses, why we use them, and how you can change your choice at any time."
+  },
+  "sections": [
+    {
+      "type": "pageHero",
+      "id": "cookie-hero",
+      "variant": "compact",
+      "title": "Cookie Policy",
+      "subtitle": "Only What We Need, Nothing More"
+    },
+    {
+      "type": "content",
+      "id": "cookie-policy",
+      "title": "Cookie Policy",
+      "hideTitle": true,
+      "updated": "26 November 2026",
+      "blocks": [
+        {
+          "heading": "In short",
+          "text": [
+            "This website does not use advertising or tracking cookies. We only keep a few small notes in your browser so the site remembers choices you have made, such as your cookie choice or that you closed a message."
+          ]
+        },
+        {
+          "heading": "What is a cookie?",
+          "text": [
+            "A cookie is a small text file a website saves on your device. Browser storage (\"local storage\") works the same way but stays on your device and is never sent to us. We use both, only for the items listed below."
+          ]
+        },
+        {
+          "heading": "What we store",
+          "list": [
+            "ch_consent (cookie) – remembers your cookie choice (\"Accept all\" or \"Essentials only\"). Lasts 24 hours after \"Essentials only\" or 24 days after \"Accept all\".",
+            "canehouse:cookie-consent (browser storage) – the same cookie choice, with the date it runs out.",
+            "canehouse:popup:… (browser storage) – remembers that you closed the welcome message, so it stays hidden for 24 hours.",
+            "canehouse:whatsapp-tip-dismissed (browser storage) – remembers that you closed the WhatsApp tip.",
+            "canehouse:cane-cutter-best and canehouse:cane-cutter-sound (browser storage) – your best score and sound setting in the Cane Cutter game."
+          ],
+          "text": [
+            "All of these are essential or functional: they only remember your own choices and contain no personal details."
+          ]
+        },
+        {
+          "heading": "Other websites",
+          "text": [
+            "Our fonts are loaded from Google Fonts. Videos and posts from YouTube, Instagram or TikTok only load when you tap play: YouTube uses its privacy-enhanced (youtube-nocookie.com) player, and Instagram or TikTok may set their own cookies once loaded. Links to Google Maps, WhatsApp or social media take you to those sites, which have their own cookie policies."
+          ]
+        },
+        {
+          "heading": "Optional cookies",
+          "text": [
+            "We do not use any optional cookies at the moment. If we add something like visit statistics in future, it will only run after you choose \"Accept all\", and this page will list it."
+          ]
+        },
+        {
+          "heading": "Changing your choice",
+          "text": [
+            "Clearing your browser's cookies and site data for this website removes everything above, and the cookie notice will ask you again. Closing the notice with the X counts as \"Essentials only\"."
+          ]
+        },
+        {
+          "heading": "Contact",
+          "text": [
+            "Questions about cookies? Email thecanehouseuk@gmail.com or call +44 777 046 1939."
+          ]
+        }
+      ]
+    }
+  ]
+}

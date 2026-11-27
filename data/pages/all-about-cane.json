@@ -1,0 +1,426 @@
+{
+  "key": "allAboutCane",
+  "path": "/all-about-cane",
+  "label": "All About Cane",
+  "sitemap": {
+    "priority": 0.9,
+    "changefreq": "monthly"
+  },
+  "seo": {
+    "title": "All About Sugarcane – History, Life Cycle & Uses",
+    "description": "The story of sugarcane, from field to press to glass: its history, life cycle, how fresh sugarcane juice is pressed and its many uses, from jaggery to bagasse.",
+    "image": "/images/backgrounds/sugarcane_farm_plantation_engraving.jpg",
+    "type": "article"
+  },
+  "sections": [
+    {
+      "type": "pageHero",
+      "id": "all-about-cane",
+      "title": "All About Cane",
+      "subtitle": "The Story Behind Sugarcane",
+      "text": [
+        "From a humble crop",
+        "to a drink loved across generations."
+      ],
+      "image": {
+        "src": "/images/backgrounds/sugarcane_farm_plantation_engraving.webp",
+        "alt": "Vintage engraving of a sugarcane plantation"
+      },
+      "stamp": {
+        "top": "Nature's Sweet",
+        "bottom": "Sweet Gift"
+      },
+      "decor": {
+        "right": "/images/decorative/ingredients/sugarcane-plant-with-roots.webp"
+      }
+    },
+    {
+      "type": "iconGrid",
+      "id": "why-sugarcane",
+      "title": "Why Sugarcane?",
+      "style": "circle",
+      "columns": 4,
+      "note": "A journey through time...",
+      "image": {
+        "src": "/images/backgrounds/sugarcane_farm_plantation_engraving.webp",
+        "alt": "Sugarcane field at sunset"
+      },
+      "items": [
+        {
+          "icon": "recycle",
+          "title": "Renewable & Sustainable",
+          "text": "Cane grows back from its own roots, season after season."
+        },
+        {
+          "icon": "sprout",
+          "title": "Straight from the Stalk",
+          "text": "Pressed fresh from the cane, just as nature made it."
+        },
+        {
+          "icon": "users",
+          "title": "Supports Farmers",
+          "text": "Every glass starts with growers who tend the fields."
+        },
+        {
+          "icon": "heart",
+          "title": "Fresh in Every Sip",
+          "text": "Nothing added – just pure, fresh cane juice."
+        }
+      ],
+      "intro": "A humble grass that has refreshed people for centuries – and still does, one glass at a time."
+    },
+    {
+      "type": "story",
+      "id": "story-history",
+      "title": "Story & History",
+      "layout": "book",
+      "map": true,
+      "stamp": {
+        "top": "Rooted in",
+        "bottom": "History"
+      },
+      "text": [
+        "From ancient fields to modern times, sugarcane has been part of human civilisations for thousands of years. It has sweetened celebrations, strengthened communities, and stood the test of time.",
+        "Originating in New Guinea, sugarcane spread across Asia, the Middle East, Europe and the world. It played a vital role in trade, economies, and cultures for centuries."
+      ],
+      "images": [
+        {
+          "src": "/images/backgrounds/pure_sugarcane_forest_trees_engraving.webp",
+          "alt": "Farmers in the sugarcane fields"
+        },
+        {
+          "src": "/images/sugarcane/sugarcane_stalks_etching.webp",
+          "alt": "Harvested sugarcane"
+        },
+        {
+          "src": "/images/backgrounds/vintage_coldpress_bar_catering.webp",
+          "alt": "Vintage illustration of the sugar trade"
+        }
+      ],
+      "journey": {
+        "title": "The journey of the cane",
+        "stops": [
+          "New Guinea",
+          "Asia",
+          "The Middle East",
+          "Europe",
+          "The World"
+        ]
+      }
+    },
+    {
+      "type": "book",
+      "id": "life-cycle",
+      "title": "The Life Cycle of Sugarcane",
+      "intro": "From a cutting in the soil to the glass in your hand – and back to the soil again. Turn the pages.",
+      "closing": "…and so the cycle begins again.",
+      "pages": [
+        {
+          "chapter": "I",
+          "title": "Planting",
+          "image": {
+            "src": "/images/decorative/ingredients/sugarcane-plant-with-roots.webp",
+            "alt": "Young sugarcane plant with its roots"
+          },
+          "caption": "A new plant from an old cane",
+          "text": [
+            "Sugarcane is not grown from seed. Short pieces of a mature stalk, called setts, are laid in rich, moist soil.",
+            "Each joint carries a sleeping bud that wakes, sends down roots and pushes up a fresh green shoot."
+          ]
+        },
+        {
+          "chapter": "II",
+          "title": "Growing",
+          "image": {
+            "src": "/images/decorative/ingredients/sugarcane-closeup-dew.webp",
+            "alt": "Sugarcane leaves with morning dew"
+          },
+          "caption": "Sun, water and patience",
+          "text": [
+            "Warm sun, plenty of water and patient care. The young shoots grow into tall, leafy canes, often taller than a person.",
+            "Joint by joint the stalk climbs, its long leaves rustling in the field."
+          ]
+        },
+        {
+          "chapter": "III",
+          "title": "Ripening",
+          "image": {
+            "src": "/images/backgrounds/pure_sugarcane_forest_trees_engraving.webp",
+            "alt": "A tall field of ripe sugarcane"
+          },
+          "caption": "Ten to fourteen months in the field",
+          "text": [
+            "Over 10–14 months the canes fill with sweet juice. The stalks grow firm and heavy.",
+            "The cane is ready when its sweetness is at its very best."
+          ]
+        },
+        {
+          "chapter": "IV",
+          "title": "Harvest",
+          "image": {
+            "src": "/images/sugarcane/sugarcane_stalks_etching.webp",
+            "alt": "Cut sugarcane stalks"
+          },
+          "caption": "Cut low, where it is sweetest",
+          "text": [
+            "The ripe canes are cut close to the ground, where the juice is sweetest, and the leaves are stripped away.",
+            "The roots stay in the soil and send up new canes for the next harvest."
+          ]
+        },
+        {
+          "chapter": "V",
+          "title": "Bundled & Carried",
+          "image": {
+            "src": "/images/decorative/ingredients/sugarcane-stalks-bundle.webp",
+            "alt": "A tied bundle of sugarcane"
+          },
+          "caption": "Fresh from the field",
+          "text": [
+            "The canes are tied into bundles and carried away fresh.",
+            "Cane juice is best when the cane is freshly cut, so it does not wait around."
+          ]
+        },
+        {
+          "chapter": "VI",
+          "title": "Into the Press",
+          "image": {
+            "src": "/images/backgrounds/machine/old_machine.webp",
+            "alt": "An old sugarcane press"
+          },
+          "caption": "The rollers turn",
+          "text": [
+            "Each cane is washed and fed through the press. The rollers crush it and squeeze out the sweet green-gold juice."
+          ],
+          "steps": [
+            {
+              "icon": "droplet",
+              "label": "Washed"
+            },
+            {
+              "icon": "cog",
+              "label": "Crushed"
+            },
+            {
+              "icon": "factory",
+              "label": "Pressed"
+            },
+            {
+              "icon": "filter",
+              "label": "Strained"
+            }
+          ]
+        },
+        {
+          "chapter": "VII",
+          "title": "A Fresh Glass",
+          "image": {
+            "src": "/images/sugarcane/drink_classic.webp",
+            "alt": "A glass of fresh sugarcane juice"
+          },
+          "caption": "Pure, fresh, nothing added",
+          "text": [
+            "Poured straight into the glass, perhaps with a squeeze of lemon, a little ginger or a sprig of mint.",
+            "This is the part we love most – handing it to you."
+          ]
+        },
+        {
+          "chapter": "VIII",
+          "title": "Many Good Things",
+          "image": {
+            "src": "/images/decorative/ingredients/sugarcane-stalks-crossed.webp",
+            "alt": "Crossed sugarcane stalks"
+          },
+          "caption": "One plant, many gifts",
+          "text": [
+            "The same sweet juice, boiled and worked in different ways, gives us much more than a drink."
+          ],
+          "steps": [
+            {
+              "icon": "cookie",
+              "label": "Jaggery"
+            },
+            {
+              "icon": "sparkles",
+              "label": "Sugar"
+            },
+            {
+              "icon": "flask",
+              "label": "Molasses"
+            },
+            {
+              "icon": "fuel",
+              "label": "Ethanol"
+            }
+          ]
+        },
+        {
+          "chapter": "IX",
+          "title": "From Fibre to Plates",
+          "icon": "utensils",
+          "caption": "Nothing goes to waste",
+          "text": [
+            "After pressing, the dry fibre left behind is called bagasse.",
+            "It is made into plates, cups and paper, and burned as fuel – nothing goes to waste."
+          ],
+          "steps": [
+            {
+              "icon": "utensils",
+              "label": "Plates & cups"
+            },
+            {
+              "icon": "wheat",
+              "label": "Paper"
+            },
+            {
+              "icon": "fuel",
+              "label": "Fuel"
+            }
+          ]
+        },
+        {
+          "chapter": "X",
+          "title": "Back to the Soil",
+          "image": {
+            "src": "/images/backgrounds/sugarcane_farm_plantation_engraving.webp",
+            "alt": "A sugarcane farm"
+          },
+          "caption": "The field is ready again",
+          "text": [
+            "Used plates, leaves and fibre break down into rich compost that feeds the earth.",
+            "The soil is ready for new setts to be planted."
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "benefits"
+    },
+    {
+      "type": "iconGrid",
+      "id": "uses",
+      "title": "Uses of Sugarcane",
+      "style": "boxed",
+      "columns": 3,
+      "intro": "One plant, endless uses – nothing from the cane goes to waste.",
+      "items": [
+        {
+          "icon": "utensils",
+          "title": "Food & Beverages",
+          "text": "Fresh juice, jaggery, syrups and sweets."
+        },
+        {
+          "icon": "cookie",
+          "title": "Natural Sweetener",
+          "text": "Sugar, jaggery and molasses for the kitchen."
+        },
+        {
+          "icon": "landmark",
+          "title": "Tradition & Culture",
+          "text": "Shared at festivals and family gatherings for generations."
+        },
+        {
+          "icon": "fuel",
+          "title": "Biofuel (Ethanol)",
+          "text": "Clean-burning fuel made from cane juice."
+        },
+        {
+          "icon": "wheat",
+          "title": "Animal Feed",
+          "text": "Leaves and tops feed livestock on the farm."
+        },
+        {
+          "icon": "factory",
+          "title": "Paper & Packaging",
+          "text": "Bagasse fibre becomes plates, paper and boards."
+        }
+      ]
+    },
+    {
+      "type": "story",
+      "id": "culture",
+      "title": "Sugarcane in Our Culture",
+      "layout": "side",
+      "text": [
+        "A part of festivals, traditions, rituals and celebrations. It connects generations and brings people together.",
+        "At harvest festivals whole canes are tied at the door, shared with neighbours and chewed by children in the sun. At weddings and temple offerings it stands for a sweet, plentiful life ahead.",
+        "Every glass we press carries a little of that same feeling: something simple, fresh and shared."
+      ],
+      "images": [
+        {
+          "src": "/images/sugarcane/story_moments.webp",
+          "alt": "Celebrating with sugarcane"
+        }
+      ],
+      "stamp": {
+        "top": "Tradition",
+        "bottom": "Generations"
+      },
+      "script": "Sweetness that brings us together",
+      "features": [
+        {
+          "icon": "sun",
+          "title": "Harvest Festivals",
+          "text": "Pongal, Sankranti, Lohri"
+        },
+        {
+          "icon": "heart",
+          "title": "Weddings",
+          "text": "A sign of a sweet life"
+        },
+        {
+          "icon": "landmark",
+          "title": "Temple Offerings",
+          "text": "Given with prayer"
+        },
+        {
+          "icon": "users",
+          "title": "Family Gatherings",
+          "text": "Shared across generations"
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "id": "why-everyone-loves",
+      "title": "Why Everyone Loves Sugarcane",
+      "icon": "heart",
+      "tone": "maroon",
+      "columns": 2,
+      "items": [
+        "It's naturally sweet",
+        "It's refreshing",
+        "It's loved by all ages",
+        "It's simple & pure",
+        "It's lovely",
+        "It brings happiness"
+      ],
+      "image": {
+        "src": "/images/sugarcane/hero_juice.webp",
+        "alt": "Enjoying a glass of fresh cane juice"
+      }
+    },
+    {
+      "ref": "faqCane",
+      "id": "faq",
+      "title": "Frequently Asked Questions"
+    },
+    {
+      "type": "banner",
+      "id": "sweetest-story",
+      "title": "The Sweetest Story Ever Told",
+      "text": [
+        "Sugarcane is more than a crop. It is a legacy.",
+        "A gift from nature. A symbol of life.",
+        "At The CaneHouse, we honour this timeless sweetness, and bring it to you — fresh, pure and full of flavour."
+      ],
+      "image": {
+        "src": "/images/backgrounds/pure_sugarcane_forest_trees_engraving.webp",
+        "alt": "Engraving of a sugarcane farm"
+      },
+      "button": {
+        "label": "Visit The CaneHouse",
+        "href": "/"
+      }
+    }
+  ]
+}

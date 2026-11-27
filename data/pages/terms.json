@@ -1,0 +1,35 @@
+{
+  "key": "terms",
+  "path": "/terms",
+  "label": "Terms & Conditions",
+  "sitemap": { "priority": 0.3, "changefreq": "yearly" },
+  "seo": {
+    "title": "Terms & Conditions",
+    "description": "The terms for orders, home delivery, event bookings and use of The CaneHouse website – the fresh sugarcane juice bar in Sutton, London."
+  },
+  "sections": [
+    {
+      "type": "pageHero",
+      "id": "terms-hero",
+      "variant": "compact",
+      "title": "Terms & Conditions",
+      "subtitle": "The Small Print, Kept Simple",
+      "image": { "src": "/images/backgrounds/sugarcane_farm_plantation_engraving.webp", "alt": "Engraving of a sugarcane plantation" }
+    },
+    {
+      "type": "content",
+      "id": "terms",
+      "title": "Terms & Conditions",
+      "hideTitle": true,
+      "updated": "15 November 2026",
+      "blocks": [
+        { "heading": "Orders & delivery", "text": ["Fresh juice is pressed to order and is best enjoyed straight away. Delivery areas and times are confirmed when you order."] },
+        { "heading": "Event bookings", "list": ["A booking is confirmed once we have agreed the details in writing and any deposit is received.", "Please give us as much notice as possible of changes to guest numbers, timings or venue access.", "Cancellation terms are set out in your booking confirmation."] },
+        { "heading": "Allergens & health", "text": ["Our juices may be prepared alongside lemon, ginger, mint, pineapple and spices. Please tell us about any allergies before ordering. Sugarcane juice contains natural sugars."] },
+        { "heading": "Franchise information", "text": ["Information on this website about franchise opportunities is a general overview and not an offer. Full terms are provided separately."] },
+        { "heading": "Website", "text": ["Content and images on this website belong to The CaneHouse or are used with permission. Please do not reuse them without asking."] },
+        { "heading": "Contact", "text": ["Questions about these terms? Email thecanehouseuk@gmail.com or call +44 777 046 1939."] }
+      ]
+    }
+  ]
+}
