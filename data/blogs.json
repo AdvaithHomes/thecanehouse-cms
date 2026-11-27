@@ -1,3 +1,88 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "slug": "sugarcane-juice-bar-for-weddings",
+      "path": "/blogs/sugarcane-juice-bar-for-weddings",
+      "title": "A Fresh Sugarcane Juice Bar For Your Wedding",
+      "description": "A live sugarcane juice bar gives wedding guests a fresh, alcohol-free drink pressed in front of them. Here is how it works and how to book.",
+      "excerpt": "A live sugarcane juice bar gives wedding guests a fresh, alcohol-free drink pressed in front of them. Here is how it works and how to book.",
+      "category": "Occasions",
+      "categorySlug": "occasions",
+      "date": "2026-11-20",
+      "image": "/images/sugarcane/hero_juice.webp",
+      "imageAlt": "A glass of fresh sugarcane juice being poured",
+      "author": "The CaneHouse Team",
+      "tags": [
+        "weddings",
+        "wedding drinks",
+        "juice bar",
+        "sugarcane juice",
+        "london"
+      ],
+      "readMinutes": 2
+    },
+    {
+      "slug": "sugarcane-juice-for-corporate-events",
+      "path": "/blogs/sugarcane-juice-for-corporate-events",
+      "title": "Sugarcane Juice For Corporate Events And Team Days",
+      "description": "A live sugarcane juice stall is a fresh, alcohol-free treat for staff days, launches and office events across Sutton, London and Surrey.",
+      "excerpt": "A live sugarcane juice stall is a fresh, alcohol-free treat for staff days, launches and office events across Sutton, London and Surrey.",
+      "category": "Occasions",
+      "categorySlug": "occasions",
+      "date": "2026-11-13",
+      "image": "/images/gallery/stall_event_3.webp",
+      "imageAlt": "The CaneHouse stall serving fresh sugarcane juice",
+      "author": "The CaneHouse Team",
+      "tags": [
+        "corporate events",
+        "team days",
+        "office events",
+        "sugarcane juice",
+        "alcohol-free drinks"
+      ],
+      "readMinutes": 1
+    },
+    {
+      "slug": "sugarcane-juice-for-birthday-parties",
+      "path": "/blogs/sugarcane-juice-for-birthday-parties",
+      "title": "Make Your Birthday Party Sweeter With Fresh Cane",
+      "description": "Fresh sugarcane juice pressed live at your birthday party or private celebration – naturally sweet, alcohol-free and loved by all ages.",
+      "excerpt": "Fresh sugarcane juice pressed live at your birthday party or private celebration – naturally sweet, alcohol-free and loved by all ages.",
+      "category": "Occasions",
+      "categorySlug": "occasions",
+      "date": "2026-11-06",
+      "image": "/images/gallery/stall_event_4.webp",
+      "imageAlt": "The CaneHouse sugarcane juice stall at a celebration",
+      "author": "The CaneHouse Team",
+      "tags": [
+        "birthday party",
+        "private party",
+        "celebrations",
+        "sugarcane juice",
+        "party drinks"
+      ],
+      "readMinutes": 1
+    },
+    {
+      "slug": "sutton-summer-streets-2026",
+      "path": "/blogs/sutton-summer-streets-2026",
+      "title": "Fresh Sugarcane Juice At Sutton Summer Streets",
+      "description": "We pressed fresh sugarcane juice in Trinity Square at Sutton Summer Streets 2026 – here is how our summer weekends in town looked.",
+      "excerpt": "We pressed fresh sugarcane juice in Trinity Square at Sutton Summer Streets 2026 – here is how our summer weekends in town looked.",
+      "category": "Our Events",
+      "categorySlug": "our-events",
+      "date": "2026-09-01",
+      "image": "/images/gallery/stall_event_2.webp",
+      "imageAlt": "The CaneHouse stall pressing sugarcane juice at an event",
+      "author": "The CaneHouse Team",
+      "tags": [
+        "sutton summer streets",
+        "sutton",
+        "trinity square",
+        "events",
+        "sugarcane juice"
+      ],
+      "readMinutes": 2
+    }
+  ]
 }

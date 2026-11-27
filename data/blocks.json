@@ -507,6 +507,7 @@
     "fields": [
       {
         "name": "name",
+        "icon": "user",
         "label": "Your Name",
         "type": "text",
         "required": true,
@@ -514,6 +515,7 @@
       },
       {
         "name": "email",
+        "icon": "mail",
         "label": "Email Address",
         "type": "email",
         "required": true,
@@ -522,6 +524,7 @@
       },
       {
         "name": "phone",
+        "icon": "phone",
         "label": "Phone Number",
         "type": "tel",
         "required": false,
@@ -530,6 +533,7 @@
       },
       {
         "name": "subject",
+        "icon": "tag",
         "label": "What is it about?",
         "type": "select",
         "options": [
@@ -542,6 +546,7 @@
       },
       {
         "name": "message",
+        "icon": "message",
         "label": "Your Message",
         "type": "textarea",
         "required": true
@@ -556,6 +561,7 @@
     "fields": [
       {
         "name": "name",
+        "icon": "user",
         "label": "Your Name",
         "type": "text",
         "required": true,
@@ -563,6 +569,7 @@
       },
       {
         "name": "email",
+        "icon": "mail",
         "label": "Email Address",
         "type": "email",
         "required": true,
@@ -571,6 +578,7 @@
       },
       {
         "name": "phone",
+        "icon": "phone",
         "label": "Phone Number",
         "type": "tel",
         "required": true,
@@ -579,6 +587,7 @@
       },
       {
         "name": "eventType",
+        "icon": "party",
         "label": "Type of Event",
         "type": "select",
         "required": true,
@@ -595,24 +604,28 @@
       },
       {
         "name": "eventDate",
+        "icon": "calendar",
         "label": "Event Date",
         "type": "date",
         "half": true
       },
       {
         "name": "guests",
+        "icon": "users",
         "label": "Number of Guests",
         "type": "number",
         "half": true
       },
       {
         "name": "venue",
+        "icon": "mapPin",
         "label": "Venue / Location",
         "type": "text",
         "half": true
       },
       {
         "name": "message",
+        "icon": "message",
         "label": "Tell us about your event (serving hours, flavours, anything else)",
         "type": "textarea"
       }
@@ -626,6 +639,7 @@
     "fields": [
       {
         "name": "name",
+        "icon": "user",
         "label": "Your Name",
         "type": "text",
         "required": true,
@@ -634,6 +648,7 @@
       },
       {
         "name": "email",
+        "icon": "mail",
         "label": "Email Address",
         "type": "email",
         "required": true,
@@ -642,6 +657,7 @@
       },
       {
         "name": "phone",
+        "icon": "phone",
         "label": "Phone Number",
         "type": "tel",
         "required": true,
@@ -650,6 +666,7 @@
       },
       {
         "name": "area",
+        "icon": "mapPin",
         "label": "Area / Town You Have in Mind",
         "type": "text",
         "required": true,
@@ -657,6 +674,7 @@
       },
       {
         "name": "model",
+        "icon": "store",
         "label": "Franchise Model",
         "type": "select",
         "half": true,
@@ -670,6 +688,7 @@
       },
       {
         "name": "timeline",
+        "icon": "clock",
         "label": "When Would You Like to Start?",
         "type": "select",
         "half": true,
@@ -682,6 +701,7 @@
       },
       {
         "name": "message",
+        "icon": "message",
         "label": "Tell us a little about yourself and why you would like to join",
         "type": "textarea",
         "required": true
@@ -1257,6 +1277,7 @@
       "best": "Best",
       "lives": "Lives",
       "over": "Time for a fresh glass!",
+      "stone": "Crunch! That was a stone.",
       "newBest": "New best score!",
       "hint": "Swipe across the pieces to slice them",
       "a11y": "Cane Cutter mini game: slice the flying sugarcane and fruit",
@@ -1301,7 +1322,7 @@
         110,
         150
       ],
-      "stoneChance": 0.12,
+      "stoneChance": 0.08,
       "caneImages": [
         "cane-log",
         "cane-stalk"

@@ -1,5 +1,5 @@
 {
-  "version": "6158f2e626",
+  "version": "f88d814968",
   "files": [
     "site",
     "ui",
@@ -16,5 +16,10 @@
     "pages/privacy-policy",
     "pages/terms"
   ],
-  "posts": {}
+  "posts": {
+    "/blogs/sugarcane-juice-bar-for-weddings": "blogs/sugarcane-juice-bar-for-weddings",
+    "/blogs/sugarcane-juice-for-corporate-events": "blogs/sugarcane-juice-for-corporate-events",
+    "/blogs/sugarcane-juice-for-birthday-parties": "blogs/sugarcane-juice-for-birthday-parties",
+    "/blogs/sutton-summer-streets-2026": "blogs/sutton-summer-streets-2026"
+  }
 }

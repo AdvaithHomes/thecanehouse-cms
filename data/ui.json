@@ -122,6 +122,7 @@
     "asideTitle": "Still have questions?",
     "asideText": "We're happy to help – call, WhatsApp or send us a quick enquiry and we'll reply within 24 hours.",
     "whatsapp": "WhatsApp us",
+    "email": "Mail us",
     "enquiry": {
       "label": "Send an enquiry",
       "href": "/contact#enquiry",

@@ -90,4 +90,40 @@
       <image:loc>https://advaithhomes.github.io/thecanehouse-cms/images/sugarcane/hero_juice.jpg</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>https://advaithhomes.github.io/thecanehouse-cms/blogs/sugarcane-juice-bar-for-weddings</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://advaithhomes.github.io/thecanehouse-cms/images/sugarcane/hero_juice.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://advaithhomes.github.io/thecanehouse-cms/blogs/sugarcane-juice-for-corporate-events</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://advaithhomes.github.io/thecanehouse-cms/images/gallery/stall_event_3.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://advaithhomes.github.io/thecanehouse-cms/blogs/sugarcane-juice-for-birthday-parties</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://advaithhomes.github.io/thecanehouse-cms/images/gallery/stall_event_4.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://advaithhomes.github.io/thecanehouse-cms/blogs/sutton-summer-streets-2026</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://advaithhomes.github.io/thecanehouse-cms/images/gallery/stall_event_2.webp</image:loc>
+    </image:image>
+  </url>
 </urlset>
