@@ -1,13 +1,48 @@
-# Apache: serve prerendered /route/index.html, fall back to 404.html
+# Apache hosting (most shared hosts). Netlify / Cloudflare Pages read _headers instead;
+# GitHub Pages reads neither (see docs/deploy.md).
 Options -MultiViews
 DirectoryIndex index.html
 ErrorDocument 404 /404.html
-<IfModule mod_expires.c>
-  ExpiresActive On
-  ExpiresByType image/jpeg "access plus 1 month"
-  ExpiresByType image/png "access plus 1 month"
-  ExpiresByType image/webp "access plus 1 month"
-  ExpiresByType image/svg+xml "access plus 1 month"
-  ExpiresByType text/css "access plus 1 year"
-  ExpiresByType application/javascript "access plus 1 year"
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # one address per page: https, no www (thecanehouse.co.uk), so search engines never see duplicates
+  RewriteCond %{HTTPS} !=on [OR]
+  RewriteCond %{HTTP_HOST} ^www\. [NC]
+  RewriteCond %{HTTP_HOST} ^(?:www\.)?(.+)$ [NC]
+  RewriteRule ^ https://%1%{REQUEST_URI} [R=301,L,NE]
+
+  # the canonical form is /franchise: /franchise/ and /franchise.html redirect to it…
+  DirectorySlash Off
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^(.+)/$ /$1 [R=301,L]
+  RewriteCond %{THE_REQUEST} \s/+([^\s?]+?)\.html[\s?]
+  RewriteCond %1 !^404$
+  RewriteRule ^ /%1 [R=301,L,NE]
+  # …and /franchise is served from franchise.html
+  RewriteCond %{REQUEST_FILENAME}.html -f
+  RewriteRule ^(.+)$ $1.html [L]
+</IfModule>
+
+# Caching: the files in assets/ have a version and content hash in their names
+# (index-v1.0.0-BXUnIzX2.js), so a changed file always gets a new name – browsers may keep them
+# for a year. Pages (HTML) are checked again on every visit so a release shows at once.
+<IfModule mod_headers.c>
+  <FilesMatch "\.html$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
+  <If "%{REQUEST_URI} =~ m#^/assets/#">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </If>
+  <If "%{REQUEST_URI} =~ m#^/images/#">
+    Header set Cache-Control "public, max-age=2592000"
+  </If>
+  <FilesMatch "^(sitemap\.xml|robots\.txt|site\.webmanifest)$">
+    Header set Cache-Control "public, max-age=3600"
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript text/javascript application/json image/svg+xml application/xml text/xml text/plain application/manifest+json
 </IfModule>
