@@ -550,6 +550,17 @@
         "label": "Your Message",
         "type": "textarea",
         "required": true
+      },
+      {
+        "name": "agree",
+        "type": "toggle",
+        "label": "I agree to the Terms and Conditions and Privacy Policy",
+        "links": {
+          "Terms and Conditions": "/terms",
+          "Privacy Policy": "/privacy-policy"
+        },
+        "required": true,
+        "error": "Please agree to the Terms and Conditions to continue."
       }
     ]
   },
@@ -628,6 +639,17 @@
         "icon": "message",
         "label": "Tell us about your event (serving hours, flavours, anything else)",
         "type": "textarea"
+      },
+      {
+        "name": "agree",
+        "type": "toggle",
+        "label": "I agree to the Terms and Conditions and Privacy Policy",
+        "links": {
+          "Terms and Conditions": "/terms",
+          "Privacy Policy": "/privacy-policy"
+        },
+        "required": true,
+        "error": "Please agree to the Terms and Conditions to continue."
       }
     ]
   },
@@ -705,6 +727,17 @@
         "label": "Tell us a little about yourself and why you would like to join",
         "type": "textarea",
         "required": true
+      },
+      {
+        "name": "agree",
+        "type": "toggle",
+        "label": "I agree to the Terms and Conditions and Privacy Policy",
+        "links": {
+          "Terms and Conditions": "/terms",
+          "Privacy Policy": "/privacy-policy"
+        },
+        "required": true,
+        "error": "Please agree to the Terms and Conditions to continue."
       }
     ]
   },

@@ -152,7 +152,8 @@
     "errors": {
       "required": "Please enter your {label}.",
       "email": "Please enter a valid email address.",
-      "phone": "Please enter a valid phone number."
+      "phone": "Please enter a valid phone number.",
+      "toggle": "Please switch this on to continue."
     },
     "labels": {
       "address": "Find us",
