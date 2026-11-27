@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thecanehouse.co.uk/sitemap.xml
+Sitemap: https://advaithhomes.github.io/thecanehouse-cms/sitemap.xml

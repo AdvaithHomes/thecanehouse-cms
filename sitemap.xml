@@ -1,84 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://thecanehouse.co.uk/</loc>
+    <loc>https://advaithhomes.github.io/thecanehouse-cms/</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://thecanehouse.co.uk/images/sugarcane/hero_juice.jpg</image:loc>
+      <image:loc>https://advaithhomes.github.io/thecanehouse-cms/images/sugarcane/hero_juice.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://thecanehouse.co.uk/all-about-cane</loc>
+    <loc>https://advaithhomes.github.io/thecanehouse-cms/all-about-cane</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://thecanehouse.co.uk/images/backgrounds/sugarcane_farm_plantation_engraving.jpg</image:loc>
+      <image:loc>https://advaithhomes.github.io/thecanehouse-cms/images/backgrounds/sugarcane_farm_plantation_engraving.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://thecanehouse.co.uk/our-story</loc>
+    <loc>https://advaithhomes.github.io/thecanehouse-cms/our-story</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://thecanehouse.co.uk/images/sugarcane/story_moments.jpg</image:loc>
+      <image:loc>https://advaithhomes.github.io/thecanehouse-cms/images/sugarcane/story_moments.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://thecanehouse.co.uk/contact</loc>
+    <loc>https://advaithhomes.github.io/thecanehouse-cms/contact</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://thecanehouse.co.uk/images/backgrounds/vintage_coldpress_bar_catering.jpg</image:loc>
+      <image:loc>https://advaithhomes.github.io/thecanehouse-cms/images/backgrounds/vintage_coldpress_bar_catering.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://thecanehouse.co.uk/events</loc>
+    <loc>https://advaithhomes.github.io/thecanehouse-cms/events</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://thecanehouse.co.uk/images/gallery/stall_event_2.jpg</image:loc>
+      <image:loc>https://advaithhomes.github.io/thecanehouse-cms/images/gallery/stall_event_2.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://thecanehouse.co.uk/franchise</loc>
+    <loc>https://advaithhomes.github.io/thecanehouse-cms/franchise</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://thecanehouse.co.uk/images/gallery/stall_event_4.jpg</image:loc>
+      <image:loc>https://advaithhomes.github.io/thecanehouse-cms/images/gallery/stall_event_4.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://thecanehouse.co.uk/cookie-policy</loc>
+    <loc>https://advaithhomes.github.io/thecanehouse-cms/cookie-policy</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
     <image:image>
-      <image:loc>https://thecanehouse.co.uk/images/sugarcane/hero_juice.jpg</image:loc>
+      <image:loc>https://advaithhomes.github.io/thecanehouse-cms/images/sugarcane/hero_juice.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://thecanehouse.co.uk/privacy-policy</loc>
+    <loc>https://advaithhomes.github.io/thecanehouse-cms/privacy-policy</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
     <image:image>
-      <image:loc>https://thecanehouse.co.uk/images/sugarcane/hero_juice.jpg</image:loc>
+      <image:loc>https://advaithhomes.github.io/thecanehouse-cms/images/sugarcane/hero_juice.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://thecanehouse.co.uk/terms</loc>
+    <loc>https://advaithhomes.github.io/thecanehouse-cms/terms</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
     <image:image>
-      <image:loc>https://thecanehouse.co.uk/images/sugarcane/hero_juice.jpg</image:loc>
+      <image:loc>https://advaithhomes.github.io/thecanehouse-cms/images/sugarcane/hero_juice.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
