@@ -97,6 +97,9 @@
     "policyLabel": "Cookie policy",
     "policyHref": "/cookie-policy",
     "closeLabel": "Close (essentials only)",
+    "askOn": [
+      "/cookie-policy"
+    ],
     "askAgain": {
       "essentialHours": 24,
       "acceptDays": 24

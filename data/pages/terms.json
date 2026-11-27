@@ -11,7 +11,6 @@
     {
       "type": "pageHero",
       "id": "terms-hero",
-      "variant": "compact",
       "title": "Terms & Conditions",
       "subtitle": "The Small Print, Kept Simple",
       "image": { "src": "/images/backgrounds/sugarcane_farm_plantation_engraving.webp", "alt": "Engraving of a sugarcane plantation" }
