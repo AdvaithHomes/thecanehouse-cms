@@ -1,0 +1,28 @@
+{
+  "key": "blogs",
+  "path": "/blogs",
+  "label": "Blogs",
+  "sitemap": { "priority": 0.7, "changefreq": "weekly" },
+  "seo": {
+    "title": "Blogs – News, Events & Sugarcane Stories",
+    "description": "News, event stories and sugarcane juice notes from The CaneHouse – the fresh sugarcane juice bar in Sutton, London."
+  },
+  "_postSections": "postSections: what shows under every blog post (same section JSON as any page, e.g. a block from blocks.json)",
+  "postSections": [{ "ref": "enquiryCta" }],
+  "sections": [
+    {
+      "type": "pageHero",
+      "id": "blogs-hero",
+      "variant": "compact",
+      "title": "Blogs",
+      "subtitle": "News, Events & Stories From The Cane House",
+      "image": { "src": "/images/backgrounds/sugarcane_farm_plantation_engraving.webp", "alt": "Engraving of a sugarcane plantation" }
+    },
+    {
+      "type": "blogList",
+      "id": "posts",
+      "title": "Latest Posts",
+      "pageSize": 9
+    }
+  ]
+}

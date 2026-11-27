@@ -55,6 +55,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://advaithhomes.github.io/thecanehouse-cms/blogs</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://advaithhomes.github.io/thecanehouse-cms/images/sugarcane/hero_juice.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://advaithhomes.github.io/thecanehouse-cms/cookie-policy</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>yearly</changefreq>

@@ -35,7 +35,8 @@
     "cookies": "Cookies",
     "logoOf": "{name} logo",
     "rating": "Rated {n} out of 5",
-    "playVideo": "Play video: {title}"
+    "playVideo": "Play video: {title}",
+    "breadcrumb": "Breadcrumb"
   },
   "titles": {
     "_about": "Two-colour titles (page and section titles): main words in one colour, the small linking and describing words below in the other. Each look sets the two colours. Wrap words in *stars* in a title to pick its main words yourself. twoTone: false turns it off.",
@@ -314,5 +315,36 @@
     "again": "Read again",
     "contents": "Chapters",
     "status": "Chapter {n} of {total}: {title}"
+  },
+  "blog": {
+    "_about": "Labels for the blog (src/data/blogs/*.md, docs/blogs.md). {n}, {name} and {page} are filled in.",
+    "all": "All",
+    "categories": "Blog categories",
+    "readMore": "Read more",
+    "minRead": "{n} min read",
+    "by": "By {name}",
+    "updated": "Updated",
+    "home": "Home",
+    "back": "Back to {page}",
+    "related": "More From The Blog",
+    "tags": "Tags",
+    "showMore": "Show more posts",
+    "empty": "No posts yet – come back soon.",
+    "loading": "Loading the post…",
+    "loadFailed": "This post could not be loaded. Please refresh the page.",
+    "months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ]
   }
 }

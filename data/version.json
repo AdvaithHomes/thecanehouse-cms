@@ -1,10 +1,12 @@
 {
-  "version": "f533f3f612",
+  "version": "6158f2e626",
   "files": [
     "site",
     "ui",
     "blocks",
+    "blogs",
     "pages/all-about-cane",
+    "pages/blogs",
     "pages/contact",
     "pages/cookie-policy",
     "pages/events",
@@ -13,5 +15,6 @@
     "pages/our-story",
     "pages/privacy-policy",
     "pages/terms"
-  ]
+  ],
+  "posts": {}
 }

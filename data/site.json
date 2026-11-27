@@ -158,6 +158,11 @@
       "icon": "calendar"
     },
     {
+      "label": "Blogs",
+      "href": "/blogs",
+      "icon": "scroll"
+    },
+    {
       "label": "Franchise",
       "href": "/franchise",
       "icon": "handshake"
@@ -190,6 +195,10 @@
           {
             "label": "Franchise",
             "href": "/franchise"
+          },
+          {
+            "label": "Blogs",
+            "href": "/blogs"
           },
           {
             "label": "Contact",
