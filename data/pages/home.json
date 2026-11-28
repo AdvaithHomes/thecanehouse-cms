@@ -70,6 +70,21 @@
       }
     },
     {
+      "type": "stats",
+      "id": "home-stats",
+      "autoplay": true,
+      "items": [
+        { "value": "100%", "label": "Pure & Natural", "sub": "Zero added sugar or ice" },
+        { "value": "30s", "label": "Pressed Fresh", "sub": "Cold-pressed to order" },
+        { "value": "8+", "label": "Signature Flavours", "sub": "Classic, Mint, Ginger & more" },
+        { "value": "50+", "label": "Events Served", "sub": "Weddings, parties & festivals" },
+         { "value": "100%", "label": "Pure & Natural", "sub": "Zero added sugar or ice" },
+        { "value": "30s", "label": "Pressed Fresh", "sub": "Cold-pressed to order" },
+        { "value": "8+", "label": "Signature Flavours", "sub": "Classic, Mint, Ginger & more" },
+        { "value": "50+", "label": "Events Served", "sub": "Weddings, parties & festivals" }
+      ]
+    },
+    {
       "type": "marquee",
       "tone": "maroon",
       "items": [
@@ -77,6 +92,48 @@
         "Freshly pressed right before your eyes",
         "Fresh Sugarcane Juice, Naturally Sweet",
         "Enjoyed across the world for generations"
+      ]
+    },
+    {
+      "type": "cardStack",
+      "id": "why-canehouse",
+      "title": "Stacked With Goodness",
+      "intro": "Swipe or tap through the deck to see what makes every glass unforgettable.",
+      "autoplay": true,
+      "interval": 4800,
+      "items": [
+        {
+          "badge": "01 · Cold Pressed",
+          "title": "Pressed Before Your Eyes",
+          "text": "Fresh sugarcane stalks are washed, peeled and cold-pressed to order — zero concentrates, zero artificial syrups.",
+          "image": "/images/sugarcane/hero_juice.webp",
+          "alt": "Freshly pressed sugarcane juice",
+          "button": { "label": "Explore Drinks", "href": "#drinks" }
+        },
+        {
+          "badge": "02 · Pure Stalks",
+          "title": "Hand-Picked Cane Stacks",
+          "text": "We source sweet, high-grade sugarcane stalks daily so every pour has crisp natural sweetness.",
+          "image": "/images/sugarcane/stacks.webp",
+          "alt": "Stacks of fresh green sugarcane",
+          "button": { "label": "All About Cane", "href": "/all-about-cane" }
+        },
+        {
+          "badge": "03 · Live Events",
+          "title": "Vintage Cold-Press Bar",
+          "text": "From weddings to corporate days, our live sugarcane bar brings theatre, aroma and fresh juice to your guests.",
+          "image": "/images/backgrounds/vintage_coldpress_bar_catering.webp",
+          "alt": "The CaneHouse vintage cold press bar",
+          "button": { "label": "Book an Event", "href": "/contact#enquiry" }
+        },
+        {
+          "badge": "04 · Crowd Favourite",
+          "title": "Loved Across Generations",
+          "text": "Classic, Mint, Lemon & Ginger or Pineapple — bringing back childhood memories in every cup.",
+          "image": "/images/gallery/stall_event_3.webp",
+          "alt": "Guests enjoying fresh sugarcane juice at The CaneHouse stall",
+          "button": { "label": "See Gallery", "href": "#gallery" }
+        }
       ]
     },
     {
